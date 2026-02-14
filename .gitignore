@@ -1,0 +1,112 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+venv311/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# PyTorch
+*.pth
+*.pt
+*.ckpt
+
+# Data files (large)
+data/raw/*.csv
+data/processed/*.csv
+*.parquet
+*.h5
+*.hdf5
+
+# Model checkpoints (large)
+models/**/*.pt
+models/**/*.pth
+models/**/*.bin
+models/**/*.h5
+
+# Keep model directories but ignore large files
+!models/.gitkeep
+!baseline/.gitkeep
+!data/.gitkeep
+
+# Results and logs
+results/
+logs/
+runs/
+tensorboard_logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
+*.bak
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Large dataset files
+bitcoin_tweets_*.csv
+bitcoin_prices_*.csv
+
+# Compiled model artifacts
+*.pkl
+*.pickle
+
+# Documentation build
+docs/_build/
+docs/_static/
+docs/_templates/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# Pytest
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Environment variables
+.env
+.env.local
