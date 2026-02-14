@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environments
+venv/
+venv311/
+env/
+ENV/
+.venv
+
+# PyTorch Models (large files)
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.h5
+*.pkl
+*.pickle
+
+# Data files
+data/raw/*.csv
+data/processed/*.csv
+*.parquet
+
+# Results
+results/
+logs/
+runs/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.bak
+
+# Temporary
+tmp/
+temp/
+*.tmp
+
+# Keep structure but ignore contents
+!data/.gitkeep
+!models/.gitkeep
+!baseline/.gitkeep
+!results/.gitkeep
+
+# Specific project files to ignore
+bitcoin_tweets_*.csv
+bitcoin_prices_*.csv
+dataset_visualization.png
+bitcoin_prices_visualization.png

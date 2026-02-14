@@ -1,0 +1,216 @@
+# Configuration File for Bitcoin Sentiment Analysis
+# Author: Boris Letić (Student 1)
+# Date: 2025-02-13
+
+# ============================================
+# DATA PATHS
+# ============================================
+data:
+  tweets_raw: "data/bitcoin_tweets_10k.csv"
+  prices_raw: "data/bitcoin_prices_hourly.csv"
+  processed_dir: "data/processed"
+
+# ============================================
+# PREPROCESSING
+# ============================================
+preprocessing:
+  text_column: "text"
+  datetime_column: "datetime"
+  max_tweet_length: 280
+  min_tweet_length: 10
+  
+  # Sentiment labeling (keyword-based, temporary)
+  positive_keywords:
+    - "bullish"
+    - "moon"
+    - "pump"
+    - "buy"
+    - "hodl"
+    - "gains"
+    - "profit"
+    - "rise"
+    - "surge"
+    - "rally"
+  
+  negative_keywords:
+    - "bearish"
+    - "dump"
+    - "sell"
+    - "crash"
+    - "drop"
+    - "fall"
+    - "loss"
+    - "fear"
+    - "panic"
+  
+  # Rolling window aggregates
+  rolling_windows: [6, 12, 24]  # hours
+  
+  # Train/val/test split
+  train_ratio: 0.6
+  val_ratio: 0.2
+  test_ratio: 0.2
+
+# ============================================
+# BERT MODEL
+# ============================================
+bert:
+  model_name: "bert-base-uncased"
+  n_classes: 3  # positive, neutral, negative
+  max_length: 128
+  
+  # Training
+  epochs: 3
+  batch_size: 32
+  learning_rate: 2.0e-5
+  weight_decay: 0.01
+  warmup_ratio: 0.1
+  
+  # Architecture
+  freeze_layers: 8  # Freeze first 8 BERT layers
+  dropout: 0.3
+  
+  # Optimization
+  gradient_clipping: 1.0
+  early_stopping_patience: 10
+  
+  # Output
+  save_dir: "models/bert_sentiment"
+
+# ============================================
+# VADER BASELINE
+# ============================================
+vader:
+  # Simple thresholds
+  positive_threshold: 0.05
+  negative_threshold: -0.05
+  
+  # Logistic Regression
+  max_iter: 1000
+  class_weight: "balanced"
+  random_state: 42
+  
+  # Output
+  save_dir: "baseline/vader_results"
+
+# ============================================
+# GRU SENTIMENT EMBEDDING
+# ============================================
+gru:
+  # Input
+  bert_embedding_dim: 768
+  sentiment_features_dim: 10
+  
+  # Architecture
+  hidden_dim: 64
+  num_layers: 2
+  dropout: 0.3
+  bidirectional: false
+  
+  # Window
+  sequence_length: 168  # hours (7 days)
+  
+  # Output
+  save_dir: "models/sentiment_embeddings"
+
+# ============================================
+# TECHNICAL INDICATORS (for price data)
+# ============================================
+technical_indicators:
+  sma_periods: [7, 25, 99]
+  ema_periods: [12, 26]
+  rsi_period: 14
+  macd_fast: 12
+  macd_slow: 26
+  macd_signal: 9
+  bollinger_period: 20
+  bollinger_std: 2
+  atr_period: 14
+
+# ============================================
+# EVALUATION
+# ============================================
+evaluation:
+  # Metrics
+  classification_metrics:
+    - "accuracy"
+    - "f1_weighted"
+    - "f1_macro"
+    - "precision_weighted"
+    - "recall_weighted"
+  
+  # Confusion matrix
+  class_names:
+    - "Negative"
+    - "Neutral"
+    - "Positive"
+  
+  # Error analysis
+  top_k_errors: 20
+  
+  # Output
+  results_dir: "results"
+
+# ============================================
+# VISUALIZATION
+# ============================================
+visualization:
+  # Plot settings
+  figure_size: [12, 8]
+  dpi: 300
+  style: "seaborn-v0_8-darkgrid"
+  
+  # Colors
+  sentiment_colors:
+    positive: "#2ecc71"
+    neutral: "#95a5a6"
+    negative: "#e74c3c"
+
+# ============================================
+# ABLATION STUDIES
+# ============================================
+ablation:
+  # Experiments to run
+  experiments:
+    - name: "price_only"
+      description: "Price branch without sentiment"
+      use_sentiment: false
+    
+    - name: "sentiment_only"
+      description: "Sentiment branch without price"
+      use_price: false
+    
+    - name: "multimodal_no_attention"
+      description: "Simple concatenation without attention"
+      use_attention: false
+    
+    - name: "multimodal_full"
+      description: "Complete multimodal with attention"
+      use_sentiment: true
+      use_price: true
+      use_attention: true
+  
+  # Window sizes to test
+  window_sizes: [24, 72, 168]  # 1 day, 3 days, 7 days
+
+# ============================================
+# REPRODUCIBILITY
+# ============================================
+random_seed: 42
+
+# ============================================
+# HARDWARE
+# ============================================
+hardware:
+  device: "auto"  # auto, cpu, cuda
+  num_workers: 4
+  pin_memory: true
+
+# ============================================
+# LOGGING
+# ============================================
+logging:
+  level: "INFO"
+  tensorboard: true
+  save_checkpoints: true
+  checkpoint_frequency: 1  # epochs
