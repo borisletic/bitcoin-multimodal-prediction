@@ -79,9 +79,7 @@ tmp/
 temp/
 *.tmp
 
-# Large dataset files
-bitcoin_tweets_*.csv
-bitcoin_prices_*.csv
+
 
 # Compiled model artifacts
 *.pkl
