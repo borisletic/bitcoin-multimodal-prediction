@@ -1,0 +1,19 @@
+{
+  "tweets_count": 11120,
+  "users_count": 4397,
+  "prices_count": 3625,
+  "date_range": {
+    "start": "2024-01-01",
+    "end": "2024-05-31"
+  },
+  "sentiment_dist": {
+    "neutral": 5722,
+    "positive": 4257,
+    "negative": 1141
+  },
+  "price_stats": {
+    "min": 32703.63,
+    "max": 56336.01,
+    "mean": 42332.33703495476
+  }
+}
