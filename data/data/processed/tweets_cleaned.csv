@@ -11119,3 +11119,1003 @@ tech_0497,2024-01-25 09:19:22,MACD histogram flipping positive on the 2D. Multi-
 tech_0498,2024-01-21 15:46:55,Upper Bollinger Band breakout at 74k. Parabolic phase starting.,user_48,19000,6500,positive,15,Sunday,63,1
 tech_0499,2024-01-27 11:31:11,RSI cooling from 82 to 68. Healthy consolidation before next push.,user_76,15000,4700,neutral,11,Saturday,66,0
 tech_0500,2024-01-23 14:17:44,MACD golden cross on the weekly chart. Generational buy signal confirmed.,user_53,21000,7500,positive,14,Tuesday,73,1
+neg_0015,2024-01-01 00:04:18,Dust attacks tracking Bitcoin user behavior.,user_41,16281,530,negative,0,Monday,44,-1
+neg_0911,2024-01-01 06:46:03,Privacy features removed from wallets. Regulators won.,user_30,11140,8187,negative,6,Monday,54,-1
+neg_0798,2024-01-01 23:52:24,Bitcoin ATMs require ID now. Anonymous purchases over.,user_98,7188,1490,negative,23,Monday,54,-1
+neg_0550,2024-01-02 00:34:27,Bitcoin escrow scams increasing. No protection.,user_56,8526,4013,negative,0,Tuesday,47,-1
+neg_0216,2024-01-02 01:41:19,Bitcoin energy consumption doubled in 12 months.,user_14,11225,4224,negative,1,Tuesday,48,-1
+neg_0919,2024-01-02 02:30:16,Hardware wallet vulnerability discovered. Funds at risk.,user_7,3573,2116,negative,2,Tuesday,56,-1
+neg_0256,2024-01-02 02:55:34,Fake wallet apps stealing Bitcoin daily.,user_6,7985,5855,negative,2,Tuesday,40,-1
+neg_0441,2024-01-02 16:13:53,Bitcoin has no solution without changing consensus.,user_16,19659,1773,negative,16,Tuesday,51,-1
+neg_0610,2024-01-02 21:27:51,Bitcoin mining competing with residential power needs.,user_38,8153,5251,negative,21,Tuesday,54,-1
+neg_0828,2024-01-03 13:53:34,Bitcoin privacy worse than bank accounts at this point.,user_16,22366,7390,negative,13,Wednesday,55,-1
+neg_0455,2024-01-03 19:45:02,Bitcoin hashrate increase equals more energy waste.,user_39,5556,9458,negative,19,Wednesday,51,-1
+neg_0937,2024-01-03 20:23:06,Privacy coins getting delisted everywhere. Bitcoin next.,user_1,16529,1429,negative,20,Wednesday,56,-1
+neg_0334,2024-01-03 20:37:04,Bitcoin escrow scams increasing. No protection.,user_58,9021,8233,negative,20,Wednesday,47,-1
+neg_0108,2024-01-04 07:34:53,Bitcoin mining damaging pristine environmental areas.,user_36,16789,2951,negative,7,Thursday,53,-1
+neg_0728,2024-01-04 13:45:26,Dust attacks tracking Bitcoin user behavior.,user_98,8311,7239,negative,13,Thursday,44,-1
+neg_0809,2024-01-04 14:49:56,Energy intensive mining contradicts climate goals.,user_10,12384,7532,negative,14,Thursday,50,-1
+neg_0415,2024-01-04 17:46:20,Bitcoin energy consumption growing exponentially.,user_11,20739,4057,negative,17,Thursday,49,-1
+neg_0375,2024-01-05 03:26:51,Ledger database leaked. Users exposed to attacks.,user_45,20090,5374,negative,3,Friday,49,-1
+neg_0230,2024-01-05 05:20:02,Energy for Bitcoin could power hospitals instead.,user_79,16989,9464,negative,5,Friday,49,-1
+neg_0872,2024-01-05 06:41:08,Proof of Work is waste of computational resources.,user_89,7009,1296,negative,6,Friday,50,-1
+neg_0032,2024-01-05 11:05:08,Smart contract bugs draining wrapped Bitcoin.,user_54,3823,9389,negative,11,Friday,45,-1
+neg_0113,2024-01-05 11:35:32,Bitcoin ATMs require ID now. Anonymous purchases over.,user_70,21632,3456,negative,11,Friday,54,-1
+neg_0163,2024-01-05 19:47:25,Bitcoin bridge hacked for $200M. Security is broken.,user_58,22128,9567,negative,19,Friday,52,-1
+neg_0686,2024-01-06 00:57:33,Bitcoin miners fleeing regulations to pollute elsewhere.,user_23,16823,5653,negative,0,Saturday,56,-1
+neg_0774,2024-01-06 08:23:31,One transaction equals one month household electricity.,user_38,14494,925,negative,8,Saturday,55,-1
+neg_0017,2024-01-06 10:33:55,Bitcoin held by exchanges not backed 1:1. Fractional.,user_21,22974,4229,negative,10,Saturday,53,-1
+neg_0427,2024-01-06 13:24:07,Bitcoin phishing emails getting more sophisticated.,user_43,8715,1988,negative,13,Saturday,51,-1
+neg_0231,2024-01-06 14:41:03,Every node can see your transaction. Total surveillance.,user_81,14895,319,negative,14,Saturday,56,-1
+neg_0833,2024-01-07 02:14:50,Ledger database leaked. Users exposed to attacks.,user_44,8336,3300,negative,2,Sunday,49,-1
+neg_0765,2024-01-07 06:02:14,Bitcoin inheritance impossible to secure properly.,user_14,20118,7813,negative,6,Sunday,50,-1
+neg_0034,2024-01-07 06:12:49,KYC exchanges sharing data with the IRS. No privacy.,user_7,13159,1787,negative,6,Sunday,52,-1
+neg_0487,2024-01-07 07:48:04,Bitcoin energy problem worse than initial estimates.,user_54,8318,1180,negative,7,Sunday,52,-1
+neg_0190,2024-01-07 08:12:49,Bitcoin lightning network vulnerabilities discovered.,user_99,12590,993,negative,8,Sunday,53,-1
+neg_0631,2024-01-07 09:08:39,E-waste from mining rigs piling up in landfills.,user_51,10501,8460,negative,9,Sunday,48,-1
+neg_0237,2024-01-07 13:41:35,Quantum computers will break Bitcoin encryption soon.,user_94,2949,8718,negative,13,Sunday,53,-1
+neg_0807,2024-01-07 13:47:20,Bitcoin miners fleeing regulations to pollute elsewhere.,user_34,14023,8213,negative,13,Sunday,56,-1
+neg_0633,2024-01-07 15:26:38,Wallet providers cooperating with surveillance agencies.,user_50,10559,7132,negative,15,Sunday,56,-1
+neg_0549,2024-01-08 00:22:04,Chainalysis can link your wallet to your name in seconds.,user_75,9127,1821,negative,0,Monday,57,-1
+neg_0298,2024-01-08 00:51:14,Bitcoin vanity address collision risk underestimated.,user_66,20259,899,negative,0,Monday,53,-1
+neg_0602,2024-01-08 01:09:23,Energy intensive mining contradicts climate goals.,user_8,13667,1733,negative,1,Monday,50,-1
+neg_0665,2024-01-08 19:49:29,Fake Bitcoin investment schemes stealing billions.,user_29,9512,3619,negative,19,Monday,50,-1
+neg_0685,2024-01-08 20:06:34,Bitcoin energy consumption doubled in 12 months.,user_54,10760,2616,negative,20,Monday,48,-1
+neg_0361,2024-01-08 21:00:55,Cooling systems for miners wasting massive water.,user_78,5390,807,negative,21,Monday,49,-1
+neg_0717,2024-01-09 03:09:31,Bitcoin leaves a trail forever. Cash was more private.,user_20,16382,3872,negative,3,Tuesday,54,-1
+neg_0392,2024-01-09 03:20:48,51% attack risk is real and growing.,user_78,17579,1621,negative,3,Tuesday,36,-1
+neg_0451,2024-01-09 04:03:44,One transaction uses energy to power homes for weeks.,user_30,12198,6715,negative,4,Tuesday,53,-1
+neg_0989,2024-01-09 06:32:40,Social engineering attacks bypassing all security.,user_43,1752,3170,negative,6,Tuesday,50,-1
+neg_0125,2024-01-09 07:39:14,Bitcoin mining damaging pristine environmental areas.,user_53,4179,6047,negative,7,Tuesday,53,-1
+neg_0744,2024-01-09 08:59:02,Bitcoin DNS attacks redirecting transactions.,user_7,21467,9722,negative,8,Tuesday,45,-1
+neg_0713,2024-01-09 09:52:57,Bitcoin carbon footprint equivalent to New Zealand.,user_22,10739,4792,negative,9,Tuesday,51,-1
+neg_0696,2024-01-10 02:45:32,Privacy coins getting delisted everywhere. Bitcoin next.,user_11,13565,7523,negative,2,Wednesday,56,-1
+neg_0364,2024-01-10 07:18:07,Miners bribing officials for cheap dirty energy.,user_19,21777,8152,negative,7,Wednesday,48,-1
+neg_0123,2024-01-10 11:15:25,Chain analysis companies can track every satoshi you own.,user_52,5134,7128,negative,11,Wednesday,57,-1
+neg_0486,2024-01-11 00:50:33,Wrench attack risk with Bitcoin. Physical danger.,user_60,18343,5163,negative,0,Thursday,49,-1
+neg_0841,2024-01-11 07:17:03,Cooling systems for miners wasting massive water.,user_75,23161,567,negative,7,Thursday,49,-1
+neg_0476,2024-01-11 17:23:56,Law enforcement has blockchain tracking tools now.,user_51,6765,5962,negative,17,Thursday,50,-1
+neg_0044,2024-01-11 19:03:48,Bitcoin hashrate increase equals more energy waste.,user_96,6337,9962,negative,19,Thursday,51,-1
+neg_0848,2024-01-12 00:06:57,Miners relocating to coal regions. Emissions spiking.,user_37,21016,1492,negative,0,Friday,53,-1
+neg_0868,2024-01-12 01:46:16,Bitcoin inheritance impossible to secure properly.,user_38,20733,9407,negative,1,Friday,50,-1
+neg_0945,2024-01-12 02:16:30,Miners relocating to coal regions. Emissions spiking.,user_66,19974,6058,negative,2,Friday,53,-1
+neg_0795,2024-01-12 04:55:12,Another major exchange hacked. Funds stolen.,user_62,17115,2650,negative,4,Friday,44,-1
+neg_0292,2024-01-12 07:54:33,Proof of Work is outdated. Ethereum already moved on.,user_64,21215,6811,negative,7,Friday,53,-1
+neg_0575,2024-01-12 10:52:32,Every node can see your transaction. Total surveillance.,user_49,15206,2173,negative,10,Friday,56,-1
+neg_0626,2024-01-12 12:10:06,Bitcoin carbon footprint equivalent to New Zealand.,user_37,13465,1061,negative,12,Friday,51,-1
+neg_0778,2024-01-12 12:35:39,Bitcoin mining e-waste generation accelerating.,user_48,21262,5798,negative,12,Friday,47,-1
+neg_0052,2024-01-12 16:08:39,Your Bitcoin privacy depends on everyone else. Broken.,user_78,9458,8108,negative,16,Friday,54,-1
+neg_0343,2024-01-12 17:45:26,Consensus bugs could halt the network.,user_7,14360,3445,negative,17,Friday,38,-1
+neg_0988,2024-01-13 06:50:55,Exchange hot wallets drained while users sleep.,user_46,14394,8383,negative,6,Saturday,47,-1
+neg_0500,2024-01-13 09:49:42,Clipboard malware changing addresses during copy-paste.,user_99,3214,5075,negative,9,Saturday,55,-1
+neg_0684,2024-01-13 13:49:17,Wallet backup phrases stolen in supply chain attack.,user_35,18850,582,negative,13,Saturday,52,-1
+neg_0791,2024-01-13 14:55:54,Bitcoin DNS attacks redirecting transactions.,user_37,10044,516,negative,14,Saturday,45,-1
+neg_0066,2024-01-13 16:12:50,Public ledger means public finances. Worse than cash.,user_38,16905,9916,negative,16,Saturday,53,-1
+neg_0419,2024-01-13 20:04:24,Dust attacks tracking Bitcoin user behavior.,user_76,12479,3139,negative,20,Saturday,44,-1
+neg_0398,2024-01-14 04:50:18,Transparent blockchain equals transparent wallet balances.,user_24,10785,6670,negative,4,Sunday,58,-1
+neg_0664,2024-01-14 05:34:35,Bitcoin mining operations causing grid strain.,user_59,16883,8514,negative,5,Sunday,46,-1
+neg_0662,2024-01-14 14:40:38,Quantum computers will break Bitcoin encryption soon.,user_5,18135,4858,negative,14,Sunday,53,-1
+neg_0211,2024-01-14 14:59:24,Wrench attack risk with Bitcoin. Physical danger.,user_66,19081,6685,negative,14,Sunday,49,-1
+neg_0073,2024-01-14 19:33:38,Crypto mining farms abandoned when energy costs rise.,user_82,17964,1048,negative,19,Sunday,53,-1
+neg_0302,2024-01-14 20:10:41,Bitcoin carbon footprint equivalent to New Zealand.,user_78,23840,5778,negative,20,Sunday,51,-1
+neg_0535,2024-01-14 22:18:09,Bitcoin energy problem worse than initial estimates.,user_91,24268,9856,negative,22,Sunday,52,-1
+neg_0076,2024-01-15 06:19:32,Ledger database leaked. Users exposed to attacks.,user_42,9058,7616,negative,6,Monday,49,-1
+neg_0324,2024-01-15 08:55:45,Bitcoin vanity address collision risk underestimated.,user_51,11613,4106,negative,8,Monday,53,-1
+neg_0056,2024-01-15 10:46:28,Methane flaring for Bitcoin still releases CO2.,user_5,9800,5764,negative,10,Monday,47,-1
+neg_0655,2024-01-16 00:46:20,Proof of Work is outdated. Ethereum already moved on.,user_61,12107,851,negative,0,Tuesday,53,-1
+neg_0403,2024-01-16 01:09:45,E-waste from mining rigs piling up in landfills.,user_47,4476,7408,negative,1,Tuesday,48,-1
+neg_0565,2024-01-16 04:43:21,Hardware wallet vulnerability discovered. Funds at risk.,user_46,9260,1598,negative,4,Tuesday,56,-1
+neg_0733,2024-01-16 10:15:08,Law enforcement has blockchain tracking tools now.,user_20,19320,6554,negative,10,Tuesday,50,-1
+neg_0186,2024-01-16 13:32:35,Wallet providers cooperating with surveillance agencies.,user_10,1510,6625,negative,13,Tuesday,56,-1
+neg_0677,2024-01-16 18:35:53,Fake Bitcoin investment schemes stealing billions.,user_84,10683,9040,negative,18,Tuesday,50,-1
+neg_0960,2024-01-16 20:00:30,Wallet providers cooperating with surveillance agencies.,user_57,5148,548,negative,20,Tuesday,56,-1
+neg_0115,2024-01-16 23:20:24,Bitcoin mining competing with residential power needs.,user_94,21055,9943,negative,23,Tuesday,54,-1
+neg_0623,2024-01-17 02:25:30,One transaction uses energy to power homes for weeks.,user_65,3325,4670,negative,2,Wednesday,53,-1
+neg_0539,2024-01-17 03:45:21,Proof of Work destroying the planet for digital money.,user_79,6837,5323,negative,3,Wednesday,54,-1
+neg_0995,2024-01-17 03:46:51,Bitcoin has no solution without changing consensus.,user_77,22851,8308,negative,3,Wednesday,51,-1
+neg_0416,2024-01-17 05:49:56,Bitcoin mining damaging pristine environmental areas.,user_31,13450,690,negative,5,Wednesday,53,-1
+neg_0961,2024-01-17 12:07:32,Bitcoin mining uses more electricity than countries.,user_56,9647,1671,negative,12,Wednesday,52,-1
+neg_0815,2024-01-17 13:33:01,Tornado Cash banned. Privacy tools are illegal now.,user_38,20844,4071,negative,13,Wednesday,51,-1
+neg_0680,2024-01-17 14:29:09,Bitcoin transaction malleability still a security risk.,user_81,15376,1713,negative,14,Wednesday,55,-1
+neg_0142,2024-01-17 17:18:19,Bitcoin mining operations abandoned leaving toxic waste.,user_81,9755,3393,negative,17,Wednesday,56,-1
+neg_0929,2024-01-17 17:32:16,Bitcoin mining damaging pristine environmental areas.,user_48,16379,1281,negative,17,Wednesday,53,-1
+neg_0874,2024-01-17 19:32:19,Bitcoin mining using natural gas flaring. Disaster.,user_61,13653,3450,negative,19,Wednesday,51,-1
+neg_0591,2024-01-17 21:01:01,Bitcoin mining draining renewable energy from grid.,user_8,16666,6223,negative,21,Wednesday,51,-1
+neg_0587,2024-01-18 13:19:25,Bitcoin nodes under DDoS attack daily.,user_47,8127,3029,negative,13,Thursday,38,-1
+neg_0378,2024-01-18 14:38:06,Bitcoin nodes under DDoS attack daily.,user_64,14519,6281,negative,14,Thursday,38,-1
+neg_0519,2024-01-18 14:45:57,Chainalysis can link your wallet to your name in seconds.,user_37,13564,4748,negative,14,Thursday,57,-1
+neg_0432,2024-01-18 18:58:39,Ransomware demanding Bitcoin. Fueling criminals.,user_95,24133,1071,negative,18,Thursday,48,-1
+neg_0953,2024-01-18 20:45:33,Clipboard malware changing addresses during copy-paste.,user_41,12523,6260,negative,20,Thursday,55,-1
+neg_0678,2024-01-18 22:34:01,Bitcoin lightning network vulnerabilities discovered.,user_84,23983,7522,negative,22,Thursday,53,-1
+neg_0041,2024-01-18 23:25:13,Phishing attacks stealing Bitcoin daily. No protection.,user_72,12174,6882,negative,23,Thursday,55,-1
+neg_0876,2024-01-18 23:58:50,Hardware wallet vulnerability discovered. Funds at risk.,user_62,20912,8856,negative,23,Thursday,56,-1
+neg_0233,2024-01-19 00:05:59,Bitcoin held by exchanges not backed 1:1. Fractional.,user_90,20383,6182,negative,0,Friday,53,-1
+neg_0089,2024-01-19 01:30:37,Law enforcement has blockchain tracking tools now.,user_18,22033,6472,negative,1,Friday,50,-1
+neg_0254,2024-01-19 09:26:30,Cooling systems for miners wasting massive water.,user_43,18953,4289,negative,9,Friday,49,-1
+neg_0641,2024-01-19 12:52:07,Your Bitcoin privacy depends on everyone else. Broken.,user_73,3201,6550,negative,12,Friday,54,-1
+neg_0345,2024-01-19 17:56:39,IP addresses logged with every transaction. Location tracked.,user_67,7512,3737,negative,17,Friday,61,-1
+neg_0443,2024-01-19 20:41:13,Bitcoin using more energy than renewables produce.,user_96,2594,7702,negative,20,Friday,50,-1
+neg_0657,2024-01-19 20:44:21,Cooling systems for miners wasting massive water.,user_24,11822,6300,negative,20,Friday,49,-1
+neg_0951,2024-01-20 00:20:58,Coal-powered mining operations polluting heavily.,user_25,22848,5142,negative,0,Saturday,49,-1
+neg_0025,2024-01-20 02:11:39,Renewable Bitcoin mining is a myth. Fossil fuels.,user_84,24169,2514,negative,2,Saturday,49,-1
+neg_0009,2024-01-20 10:35:13,Bitcoin mining operations causing grid strain.,user_46,8578,3561,negative,10,Saturday,46,-1
+neg_0234,2024-01-20 11:39:39,Bitcoin scripts with hidden vulnerabilities.,user_61,4075,2776,negative,11,Saturday,44,-1
+neg_0894,2024-01-20 12:02:58,SIM swap attacks emptying wallets in minutes.,user_39,7166,3851,negative,12,Saturday,45,-1
+neg_0152,2024-01-20 15:24:33,Your employer can see your Bitcoin transaction history.,user_46,3341,2063,negative,15,Saturday,55,-1
+neg_0135,2024-01-20 16:41:03,Time-locked transactions exposing future plans.,user_88,21098,3089,negative,16,Saturday,47,-1
+neg_0965,2024-01-21 01:38:03,Carbon credits from miners are fraudulent.,user_98,22030,3641,negative,1,Sunday,42,-1
+neg_0116,2024-01-21 02:57:31,Bitcoin uses 0.5% of global electricity. Unsustainable.,user_51,11897,9128,negative,2,Sunday,55,-1
+neg_0803,2024-01-21 03:25:29,Energy intensive mining contradicts climate goals.,user_79,2178,4868,negative,3,Sunday,50,-1
+neg_0136,2024-01-21 09:25:57,Bitcoin uses 0.5% of global electricity. Unsustainable.,user_7,21282,4352,negative,9,Sunday,55,-1
+neg_0996,2024-01-21 13:36:24,Renewable energy claims by miners are greenwashing.,user_10,20119,540,negative,13,Sunday,51,-1
+neg_0275,2024-01-21 14:06:23,Bitcoin leaves a trail forever. Cash was more private.,user_70,3450,3014,negative,14,Sunday,54,-1
+neg_0597,2024-01-21 15:37:28,Proof of Work destroying the planet for digital money.,user_25,8273,4496,negative,15,Sunday,54,-1
+neg_0563,2024-01-21 20:38:05,Your employer can see your Bitcoin transaction history.,user_31,17125,5869,negative,20,Sunday,55,-1
+neg_0091,2024-01-21 21:36:41,Wallet providers cooperating with surveillance agencies.,user_94,5071,6733,negative,21,Sunday,56,-1
+neg_0247,2024-01-21 22:03:42,Every Bitcoin transaction is permanently tracked. Privacy is dead.,user_87,23481,3551,negative,22,Sunday,66,-1
+neg_0478,2024-01-22 04:20:29,E-waste from mining rigs piling up in landfills.,user_9,5456,8551,negative,4,Monday,48,-1
+neg_0311,2024-01-22 11:10:58,Your employer can see your Bitcoin transaction history.,user_46,15030,4578,negative,11,Monday,55,-1
+neg_0288,2024-01-22 14:13:44,Coal-powered mining operations polluting heavily.,user_51,18826,8948,negative,14,Monday,49,-1
+neg_0999,2024-01-23 01:38:32,Bitcoin core bug could allow double spending. Urgent.,user_15,8523,8690,negative,1,Tuesday,53,-1
+neg_0759,2024-01-23 05:16:25,Miners relocating to coal regions. Emissions spiking.,user_75,7216,2817,negative,5,Tuesday,53,-1
+neg_0433,2024-01-23 08:40:26,Bitcoin privacy worse than bank accounts at this point.,user_44,17787,4803,negative,8,Tuesday,55,-1
+neg_0810,2024-01-23 15:11:38,51% attack risk is real and growing.,user_81,15970,6651,negative,15,Tuesday,36,-1
+neg_0926,2024-01-23 15:31:53,Bitcoin mining uses more electricity than countries.,user_39,12809,3873,negative,15,Tuesday,52,-1
+neg_0598,2024-01-23 16:42:52,Bitcoin hashrate increase equals more energy waste.,user_80,4455,6641,negative,16,Tuesday,51,-1
+neg_0078,2024-01-23 20:07:23,Mixing services banned. No privacy on Bitcoin anymore.,user_95,24217,5558,negative,20,Tuesday,54,-1
+neg_0329,2024-01-24 04:41:34,Proof of Work is waste of computational resources.,user_40,21480,5439,negative,4,Wednesday,50,-1
+neg_0592,2024-01-24 06:40:07,Bitcoin mining incentivizing fossil fuel use.,user_47,15610,4864,negative,6,Wednesday,45,-1
+neg_0630,2024-01-24 07:19:20,Quantum computers will break Bitcoin encryption soon.,user_96,2292,2867,negative,7,Wednesday,53,-1
+neg_0538,2024-01-24 11:04:01,Time-locked transactions exposing future plans.,user_39,9138,9626,negative,11,Wednesday,47,-1
+neg_0607,2024-01-24 16:55:45,Bitcoin hashrate increase equals more energy waste.,user_31,24496,469,negative,16,Wednesday,51,-1
+neg_0117,2024-01-24 17:24:24,Fake Bitcoin investment schemes stealing billions.,user_23,9871,4017,negative,17,Wednesday,50,-1
+neg_0749,2024-01-24 17:46:12,Bitcoin carbon footprint equivalent to New Zealand.,user_49,21660,7315,negative,17,Wednesday,51,-1
+neg_0913,2024-01-24 20:32:33,Bitcoin held by exchanges not backed 1:1. Fractional.,user_30,16103,9357,negative,20,Wednesday,53,-1
+neg_0273,2024-01-24 21:34:09,Consensus bugs could halt the network.,user_42,14477,9430,negative,21,Wednesday,38,-1
+neg_0203,2024-01-24 23:13:03,Proof of Work is waste of computational resources.,user_67,1940,4147,negative,23,Wednesday,50,-1
+neg_0741,2024-01-25 05:33:18,Bitcoin DNS attacks redirecting transactions.,user_67,23496,2794,negative,5,Thursday,45,-1
+neg_0870,2024-01-25 06:28:35,Carbon credits from miners are fraudulent.,user_39,20031,3842,negative,6,Thursday,42,-1
+neg_0022,2024-01-25 06:50:10,Exchange data breaches exposing millions of users.,user_95,18160,5006,negative,6,Thursday,50,-1
+neg_0615,2024-01-25 13:40:53,Fake wallet apps stealing Bitcoin daily.,user_51,2397,2890,negative,13,Thursday,40,-1
+neg_0060,2024-01-25 14:36:53,Bitcoin mining noise pollution affecting communities.,user_95,16966,6337,negative,14,Thursday,53,-1
+neg_0440,2024-01-25 16:58:47,Dust attacks tracking Bitcoin user behavior.,user_68,19439,1743,negative,16,Thursday,44,-1
+neg_0998,2024-01-25 20:09:18,Fake Bitcoin investment schemes stealing billions.,user_56,10035,3979,negative,20,Thursday,50,-1
+neg_0450,2024-01-25 21:52:25,Chainalysis can link your wallet to your name in seconds.,user_65,4116,5612,negative,21,Thursday,57,-1
+neg_0802,2024-01-25 22:36:18,Bitcoin contributing to global warming crisis.,user_90,1963,9352,negative,22,Thursday,46,-1
+neg_0770,2024-01-26 19:41:43,Bitcoin mining causing blackouts in developing nations.,user_82,17517,6972,negative,19,Friday,55,-1
+neg_0303,2024-01-26 21:56:55,Bitcoin DNS attacks redirecting transactions.,user_85,9520,9469,negative,21,Friday,45,-1
+neg_0521,2024-01-27 00:27:23,One transaction equals one month household electricity.,user_41,4867,4099,negative,0,Saturday,55,-1
+neg_0772,2024-01-27 05:59:02,Bitcoin vanity address collision risk underestimated.,user_18,11868,1711,negative,5,Saturday,53,-1
+neg_0425,2024-01-27 11:06:41,Another major exchange hacked. Funds stolen.,user_97,4940,5904,negative,11,Saturday,44,-1
+neg_0619,2024-01-27 11:21:51,Bitcoin mining incentivizing fossil fuel use.,user_98,23532,8551,negative,11,Saturday,45,-1
+neg_0111,2024-01-27 14:00:28,Bitcoin mining banned in countries for energy waste.,user_72,20645,1615,negative,14,Saturday,52,-1
+neg_0577,2024-01-27 20:01:22,Fake wallet apps stealing Bitcoin daily.,user_48,6441,6186,negative,20,Saturday,40,-1
+neg_0740,2024-01-27 22:38:29,Bitcoin escrow scams increasing. No protection.,user_44,5888,4621,negative,22,Saturday,47,-1
+neg_0511,2024-01-28 11:28:07,Every node can see your transaction. Total surveillance.,user_81,7764,1745,negative,11,Sunday,56,-1
+neg_0376,2024-01-28 12:47:29,Coal-powered mining operations polluting heavily.,user_23,3338,9227,negative,12,Sunday,49,-1
+neg_0813,2024-01-28 18:26:41,Energy intensive mining contradicts climate goals.,user_7,18627,4279,negative,18,Sunday,50,-1
+neg_0743,2024-01-28 22:21:33,Bitcoin energy consumption doubled in 12 months.,user_87,5886,6287,negative,22,Sunday,48,-1
+neg_0586,2024-01-29 03:27:20,Ledger database leaked. Users exposed to attacks.,user_21,14744,5002,negative,3,Monday,49,-1
+neg_0505,2024-01-29 04:00:19,Exchange hot wallets drained while users sleep.,user_59,17265,7785,negative,4,Monday,47,-1
+neg_0972,2024-01-29 04:12:13,51% attack risk is real and growing.,user_40,18684,4503,negative,4,Monday,36,-1
+neg_0471,2024-01-29 07:29:58,Bitcoin bridge hacked for $200M. Security is broken.,user_61,22134,325,negative,7,Monday,52,-1
+neg_0087,2024-01-29 08:38:53,Fake Bitcoin investment schemes stealing billions.,user_35,22178,1171,negative,8,Monday,50,-1
+neg_0922,2024-01-29 14:38:51,Exchange hot wallets drained while users sleep.,user_89,16452,2815,negative,14,Monday,47,-1
+neg_0109,2024-01-29 15:28:29,Bitcoin contributing to global warming crisis.,user_52,2184,4612,negative,15,Monday,46,-1
+neg_0963,2024-01-29 15:43:32,Bitcoin contributing to global warming crisis.,user_6,9178,371,negative,15,Monday,46,-1
+neg_0215,2024-01-29 17:44:00,Transparent blockchain equals transparent wallet balances.,user_21,13706,9250,negative,17,Monday,58,-1
+neg_0506,2024-01-29 23:01:37,Carbon credits from miners are fraudulent.,user_73,8092,9855,negative,23,Monday,42,-1
+neg_0336,2024-01-30 00:11:51,Bitcoin network energy consumption at all-time highs.,user_65,20717,5802,negative,0,Tuesday,53,-1
+neg_0952,2024-01-30 02:44:11,Tornado Cash banned. Privacy tools are illegal now.,user_66,8322,3571,negative,2,Tuesday,51,-1
+neg_0404,2024-01-30 13:15:04,Renewable Bitcoin mining is a myth. Fossil fuels.,user_34,24456,4755,negative,13,Tuesday,49,-1
+neg_0673,2024-01-30 13:42:06,Privacy coins getting delisted everywhere. Bitcoin next.,user_99,9407,7571,negative,13,Tuesday,56,-1
+neg_0853,2024-01-30 14:34:38,Your employer can see your Bitcoin transaction history.,user_55,24268,365,negative,14,Tuesday,55,-1
+neg_0397,2024-01-30 16:06:49,Bitcoin inheritance impossible to secure properly.,user_31,20164,2537,negative,16,Tuesday,50,-1
+neg_0899,2024-01-30 16:12:53,Exchange data breaches exposing millions of users.,user_98,14393,7075,negative,16,Tuesday,50,-1
+neg_0612,2024-01-30 23:04:42,Miners colluding to censor transactions.,user_26,7439,6148,negative,23,Tuesday,40,-1
+neg_0746,2024-01-31 05:06:22,Mixing services banned. No privacy on Bitcoin anymore.,user_17,5129,6594,negative,5,Wednesday,54,-1
+neg_0773,2024-01-31 05:15:56,Bitcoin bridge hacked for $200M. Security is broken.,user_94,11061,9201,negative,5,Wednesday,52,-1
+neg_0990,2024-01-31 09:44:24,Proof of Work is waste of computational resources.,user_36,14434,3079,negative,9,Wednesday,50,-1
+neg_0498,2024-01-31 10:48:21,Bitcoin mining noise pollution affecting communities.,user_40,4981,8752,negative,10,Wednesday,53,-1
+neg_0420,2024-01-31 11:55:12,Every node can see your transaction. Total surveillance.,user_69,17964,4330,negative,11,Wednesday,56,-1
+neg_0100,2024-01-31 12:13:05,Wrench attack risk with Bitcoin. Physical danger.,user_46,17954,4364,negative,12,Wednesday,49,-1
+neg_0800,2024-01-31 15:27:13,Bitcoin nodes under DDoS attack daily.,user_90,20061,2351,negative,15,Wednesday,38,-1
+neg_0367,2024-01-31 18:22:20,Bitcoin inheritance impossible to secure properly.,user_47,13802,3500,negative,18,Wednesday,50,-1
+neg_0985,2024-01-31 21:33:15,Bitcoin mining uses more electricity than countries.,user_29,7931,3420,negative,21,Wednesday,52,-1
+neg_0099,2024-02-01 03:19:47,Bitcoin phishing emails getting more sophisticated.,user_55,7485,3739,negative,3,Thursday,51,-1
+neg_0369,2024-02-01 09:10:57,KYC exchanges sharing data with the IRS. No privacy.,user_27,6274,8763,negative,9,Thursday,52,-1
+neg_0168,2024-02-01 09:28:37,Bitcoin mining creating heat islands in areas.,user_11,15517,3241,negative,9,Thursday,46,-1
+neg_0456,2024-02-01 11:25:53,51% attack risk is real and growing.,user_64,4229,5504,negative,11,Thursday,36,-1
+neg_0777,2024-02-01 17:15:41,Fake hardware wallets sold on Amazon with backdoors.,user_10,6451,1505,negative,17,Thursday,52,-1
+neg_0106,2024-02-02 01:10:41,Mixing services banned. No privacy on Bitcoin anymore.,user_57,12355,5672,negative,1,Friday,54,-1
+neg_0357,2024-02-02 02:06:33,Bitcoin transaction malleability still a security risk.,user_19,2546,5106,negative,2,Friday,55,-1
+neg_0603,2024-02-02 02:48:09,Bitcoin held by exchanges not backed 1:1. Fractional.,user_48,22599,6576,negative,2,Friday,53,-1
+neg_0286,2024-02-02 03:05:10,Bitcoin ATMs require ID now. Anonymous purchases over.,user_43,18860,2047,negative,3,Friday,54,-1
+neg_0410,2024-02-02 03:08:07,Miners colluding to censor transactions.,user_82,9781,1033,negative,3,Friday,40,-1
+neg_0546,2024-02-02 06:37:11,Public ledger means permanent financial surveillance.,user_74,9751,1125,negative,6,Friday,53,-1
+neg_0377,2024-02-02 07:20:30,Every node can see your transaction. Total surveillance.,user_10,22940,1715,negative,7,Friday,56,-1
+neg_0395,2024-02-02 07:39:51,ASIC miners obsolete in 2 years. E-waste mountains.,user_36,8333,1740,negative,7,Friday,51,-1
+neg_0164,2024-02-02 08:18:15,Bitcoin scripts with hidden vulnerabilities.,user_67,5254,2989,negative,8,Friday,44,-1
+neg_0579,2024-02-02 08:44:31,Dust attacks tracking Bitcoin user behavior.,user_83,10906,7634,negative,8,Friday,44,-1
+neg_0987,2024-02-02 09:34:18,Public ledger means public finances. Worse than cash.,user_92,15303,3681,negative,9,Friday,53,-1
+neg_0886,2024-02-02 16:55:45,Bitcoin inheritance impossible to secure properly.,user_48,18605,9453,negative,16,Friday,50,-1
+neg_0846,2024-02-02 19:45:06,Bitcoin ATM skimmers stealing keys and cash.,user_92,5324,6923,negative,19,Friday,44,-1
+neg_0258,2024-02-02 23:06:42,Bitcoin miners fleeing regulations to pollute elsewhere.,user_87,16535,7047,negative,23,Friday,56,-1
+neg_0240,2024-02-03 01:30:19,Renewable energy claims by miners are greenwashing.,user_72,13267,9021,negative,1,Saturday,51,-1
+neg_0112,2024-02-03 03:27:47,Bitcoin scripts with hidden vulnerabilities.,user_84,11231,6428,negative,3,Saturday,44,-1
+neg_0002,2024-02-03 07:19:50,Bitcoin energy consumption doubled in 12 months.,user_16,23673,2450,negative,7,Saturday,48,-1
+neg_0509,2024-02-03 09:49:26,Bitcoin mining competing with essential services.,user_8,4318,632,negative,9,Saturday,49,-1
+neg_0252,2024-02-03 14:34:41,Exchange hot wallets drained while users sleep.,user_32,23003,8890,negative,14,Saturday,47,-1
+neg_0646,2024-02-03 18:45:16,Bitcoin carbon footprint equivalent to New Zealand.,user_36,9059,4704,negative,18,Saturday,51,-1
+neg_0531,2024-02-04 02:36:06,Quantum computers will break Bitcoin encryption soon.,user_4,8959,2729,negative,2,Sunday,53,-1
+neg_0804,2024-02-04 05:40:27,Blockchain analysis revealing sensitive user patterns.,user_89,2488,6069,negative,5,Sunday,54,-1
+neg_0581,2024-02-04 07:32:44,Miners bribing officials for cheap dirty energy.,user_10,19194,1632,negative,7,Sunday,48,-1
+neg_0544,2024-02-04 09:11:41,Time-locked transactions exposing future plans.,user_87,22539,1465,negative,9,Sunday,47,-1
+neg_0290,2024-02-04 11:45:23,Chain analysis companies can track every satoshi you own.,user_34,5374,7035,negative,11,Sunday,57,-1
+neg_0119,2024-02-04 14:12:57,Bitcoin mining noise pollution affecting communities.,user_99,14110,787,negative,14,Sunday,53,-1
+neg_0010,2024-02-04 16:53:25,Bitcoin nodes under DDoS attack daily.,user_14,11901,2465,negative,16,Sunday,38,-1
+neg_0289,2024-02-05 06:36:04,Cold storage compromised. Nothing is truly safe.,user_72,9901,3360,negative,6,Monday,48,-1
+neg_0191,2024-02-05 10:57:54,Bitcoin network energy consumption at all-time highs.,user_54,4361,7298,negative,10,Monday,53,-1
+neg_0856,2024-02-05 15:12:04,KYC exchanges sharing data with the IRS. No privacy.,user_24,15838,8554,negative,15,Monday,52,-1
+neg_0198,2024-02-05 15:24:52,Bitcoin mining creating heat islands in areas.,user_17,14592,1858,negative,15,Monday,46,-1
+neg_0604,2024-02-05 16:35:42,Bitcoin held by exchanges not backed 1:1. Fractional.,user_87,16887,4448,negative,16,Monday,53,-1
+neg_0557,2024-02-06 03:21:29,Smart contract bugs draining wrapped Bitcoin.,user_87,19736,431,negative,3,Tuesday,45,-1
+neg_0122,2024-02-06 10:14:54,Bitcoin mining using natural gas flaring. Disaster.,user_54,16949,9355,negative,10,Tuesday,51,-1
+neg_0001,2024-02-06 15:31:52,Bitcoin mining operations causing grid strain.,user_6,5175,6715,negative,15,Tuesday,46,-1
+neg_0992,2024-02-06 18:16:39,Blockchain transparency means government sees everything you buy.,user_37,8335,9581,negative,18,Tuesday,65,-1
+neg_0151,2024-02-06 18:43:44,Bitcoin uses 0.5% of global electricity. Unsustainable.,user_66,20861,7808,negative,18,Tuesday,55,-1
+neg_0214,2024-02-07 01:37:40,Bitcoin escrow scams increasing. No protection.,user_15,5985,2408,negative,1,Wednesday,47,-1
+neg_0934,2024-02-07 05:21:35,Time-locked transactions exposing future plans.,user_59,8043,1825,negative,5,Wednesday,47,-1
+neg_0572,2024-02-07 17:09:52,Proof of Work destroying the planet for digital money.,user_31,9258,1752,negative,17,Wednesday,54,-1
+neg_0128,2024-02-08 01:54:32,51% attack risk is real and growing.,user_17,3815,4616,negative,1,Thursday,36,-1
+neg_0681,2024-02-08 13:53:21,Bitcoin address reuse exposing your entire history.,user_39,9128,955,negative,13,Thursday,51,-1
+neg_0671,2024-02-08 14:50:11,Fake Bitcoin investment schemes stealing billions.,user_31,22684,8172,negative,14,Thursday,50,-1
+neg_0816,2024-02-08 16:47:55,Fake Bitcoin investment schemes stealing billions.,user_43,5151,1445,negative,16,Thursday,50,-1
+neg_0172,2024-02-08 19:52:44,Wrench attack risk with Bitcoin. Physical danger.,user_36,11991,4418,negative,19,Thursday,49,-1
+neg_0294,2024-02-08 20:27:13,Blockchain transparency means government sees everything you buy.,user_9,6773,9394,negative,20,Thursday,65,-1
+neg_0943,2024-02-08 23:52:23,Bitcoin mining e-waste generation accelerating.,user_13,8153,8783,negative,23,Thursday,47,-1
+neg_0016,2024-02-09 02:47:46,ASIC miners obsolete in 2 years. E-waste mountains.,user_53,1650,663,negative,2,Friday,51,-1
+neg_0818,2024-02-09 07:20:27,Bitcoin mining operations abandoned leaving toxic waste.,user_14,12291,6275,negative,7,Friday,56,-1
+neg_0736,2024-02-09 08:24:46,Chainalysis can link your wallet to your name in seconds.,user_98,16244,5797,negative,8,Friday,57,-1
+neg_0434,2024-02-09 17:31:53,Bitcoin ATM skimmers stealing keys and cash.,user_5,22624,3334,negative,17,Friday,44,-1
+neg_0067,2024-02-09 17:51:44,Bitcoin energy consumption doubled in 12 months.,user_3,10538,2487,negative,17,Friday,48,-1
+neg_0661,2024-02-09 18:10:10,Bitcoin ATM skimmers stealing keys and cash.,user_82,21885,6145,negative,18,Friday,44,-1
+neg_0189,2024-02-09 21:24:03,Bitcoin held by exchanges not backed 1:1. Fractional.,user_85,21473,7276,negative,21,Friday,53,-1
+neg_0316,2024-02-10 00:13:51,Bitcoin leaves a trail forever. Cash was more private.,user_81,11689,3550,negative,0,Saturday,54,-1
+neg_0956,2024-02-10 05:30:49,Clipboard malware changing addresses during copy-paste.,user_98,4943,3561,negative,5,Saturday,55,-1
+neg_0760,2024-02-10 06:24:51,Fake Bitcoin investment schemes stealing billions.,user_72,16736,785,negative,6,Saturday,50,-1
+neg_0839,2024-02-10 10:58:13,Social engineering attacks bypassing all security.,user_20,10422,2627,negative,10,Saturday,50,-1
+neg_0283,2024-02-10 11:03:53,Bitcoin address reuse exposing your entire history.,user_16,10563,5873,negative,11,Saturday,51,-1
+neg_0069,2024-02-10 12:19:54,Miners bribing officials for cheap dirty energy.,user_74,17670,5178,negative,12,Saturday,48,-1
+neg_0272,2024-02-10 12:35:27,Energy intensive mining contradicts climate goals.,user_67,18952,3627,negative,12,Saturday,50,-1
+neg_0537,2024-02-10 13:32:48,Bitcoin vanity address collision risk underestimated.,user_7,19529,3164,negative,13,Saturday,53,-1
+neg_0976,2024-02-10 20:41:27,Renewable energy claims by miners are greenwashing.,user_89,13935,8180,negative,20,Saturday,51,-1
+neg_0053,2024-02-11 01:54:34,Social engineering attacks bypassing all security.,user_16,9365,3517,negative,1,Sunday,50,-1
+neg_0663,2024-02-11 05:37:51,Privacy features removed from wallets. Regulators won.,user_56,13046,8582,negative,5,Sunday,54,-1
+neg_0484,2024-02-11 07:16:22,Miners bribing officials for cheap dirty energy.,user_66,22236,476,negative,7,Sunday,48,-1
+neg_0973,2024-02-11 10:29:43,Bitcoin mining damaging pristine environmental areas.,user_70,23911,2372,negative,10,Sunday,53,-1
+neg_0649,2024-02-11 14:05:31,Clipboard malware changing addresses during copy-paste.,user_54,24685,988,negative,14,Sunday,55,-1
+neg_0593,2024-02-11 15:31:06,IP addresses logged with every transaction. Location tracked.,user_23,13539,2361,negative,15,Sunday,61,-1
+neg_0720,2024-02-11 15:53:35,SIM swap attacks emptying wallets in minutes.,user_97,10881,3790,negative,15,Sunday,45,-1
+neg_0359,2024-02-11 16:47:44,Bitcoin mining draining renewable energy from grid.,user_32,6373,3788,negative,16,Sunday,51,-1
+neg_0737,2024-02-11 18:24:13,Bitcoin uses 0.5% of global electricity. Unsustainable.,user_11,4854,3123,negative,18,Sunday,55,-1
+neg_0305,2024-02-11 20:33:25,Ransomware demanding Bitcoin. Fueling criminals.,user_30,14944,1927,negative,20,Sunday,48,-1
+neg_0622,2024-02-11 20:33:49,Bitcoin core bug could allow double spending. Urgent.,user_73,17730,8375,negative,20,Sunday,53,-1
+neg_0503,2024-02-12 11:04:57,Bitcoin ATMs require ID now. Anonymous purchases over.,user_96,10226,9188,negative,11,Monday,54,-1
+neg_0159,2024-02-12 17:05:32,Coal-powered mining operations polluting heavily.,user_55,3963,2906,negative,17,Monday,49,-1
+neg_0507,2024-02-12 22:06:23,SIM swap attacks emptying wallets in minutes.,user_65,22362,2034,negative,22,Monday,45,-1
+neg_0979,2024-02-13 00:48:47,Bitcoin vanity address collision risk underestimated.,user_10,21055,2673,negative,0,Tuesday,53,-1
+neg_0738,2024-02-13 01:32:43,Bitcoin DNS attacks redirecting transactions.,user_33,18287,2783,negative,1,Tuesday,45,-1
+neg_0752,2024-02-13 10:23:56,Bitcoin energy problem worse than initial estimates.,user_94,10766,2927,negative,10,Tuesday,52,-1
+neg_0747,2024-02-13 11:18:53,Your Bitcoin privacy depends on everyone else. Broken.,user_10,19582,4837,negative,11,Tuesday,54,-1
+neg_0831,2024-02-13 11:32:40,Bitcoin mining creating heat islands in areas.,user_80,1926,4223,negative,11,Tuesday,46,-1
+neg_0634,2024-02-13 16:58:43,Transparent blockchain equals transparent wallet balances.,user_44,6706,6503,negative,16,Tuesday,58,-1
+neg_0344,2024-02-13 18:48:45,Bitcoin energy consumption growing exponentially.,user_79,19777,3706,negative,18,Tuesday,49,-1
+neg_0700,2024-02-13 19:14:43,Privacy features removed from wallets. Regulators won.,user_45,4576,1605,negative,19,Tuesday,54,-1
+neg_0642,2024-02-13 22:08:16,Renewable Bitcoin mining is a myth. Fossil fuels.,user_24,19313,1924,negative,22,Tuesday,49,-1
+neg_0882,2024-02-13 22:34:29,Bitcoin ATMs require ID now. Anonymous purchases over.,user_27,16608,3929,negative,22,Tuesday,54,-1
+neg_0825,2024-02-14 05:12:08,Transparent blockchain equals transparent wallet balances.,user_76,1965,2022,negative,5,Wednesday,58,-1
+neg_0319,2024-02-14 06:05:07,Bitcoin hashrate increase equals more energy waste.,user_31,16738,3052,negative,6,Wednesday,51,-1
+neg_0726,2024-02-14 19:30:01,Bitcoin mining competing with essential services.,user_50,14172,6480,negative,19,Wednesday,49,-1
+neg_0299,2024-02-14 19:44:06,Bitcoin privacy worse than bank accounts at this point.,user_15,12664,8611,negative,19,Wednesday,55,-1
+neg_0024,2024-02-14 20:28:01,Privacy features removed from wallets. Regulators won.,user_85,5226,5039,negative,20,Wednesday,54,-1
+neg_0465,2024-02-14 21:09:34,Blockchain analysis revealing sensitive user patterns.,user_51,7780,2769,negative,21,Wednesday,54,-1
+neg_0400,2024-02-15 00:51:32,Bitcoin mining e-waste generation accelerating.,user_56,4263,7867,negative,0,Thursday,47,-1
+neg_0402,2024-02-15 01:36:50,Bitcoin contributing to global warming crisis.,user_52,22365,5250,negative,1,Thursday,46,-1
+neg_0986,2024-02-15 01:54:34,Exchange data breaches exposing millions of users.,user_66,24888,7398,negative,1,Thursday,50,-1
+neg_0748,2024-02-15 01:55:38,Cold storage compromised. Nothing is truly safe.,user_32,22641,532,negative,1,Thursday,48,-1
+neg_0566,2024-02-15 20:27:35,One transaction equals one month household electricity.,user_75,17833,3348,negative,20,Thursday,55,-1
+neg_0037,2024-02-16 03:59:48,Bitcoin carbon footprint equivalent to New Zealand.,user_24,11312,1764,negative,3,Friday,51,-1
+neg_0371,2024-02-16 07:00:30,Bitcoin mining operations abandoned leaving toxic waste.,user_25,4159,6599,negative,7,Friday,56,-1
+neg_0430,2024-02-16 07:55:24,Bitcoin address reuse exposing your entire history.,user_63,18835,7947,negative,7,Friday,51,-1
+neg_0914,2024-02-16 08:38:42,Bitcoin mining competing with residential power needs.,user_91,13380,6290,negative,8,Friday,54,-1
+neg_0780,2024-02-16 08:52:07,Quantum computers will break Bitcoin encryption soon.,user_72,24631,7031,negative,8,Friday,53,-1
+neg_0199,2024-02-16 10:15:01,Mixing services banned. No privacy on Bitcoin anymore.,user_88,8569,1403,negative,10,Friday,54,-1
+neg_0867,2024-02-16 11:27:55,SIM swap attacks emptying wallets in minutes.,user_12,11647,2677,negative,11,Friday,45,-1
+neg_0510,2024-02-16 15:17:13,Bitcoin mining draining renewable energy from grid.,user_29,8283,3656,negative,15,Friday,51,-1
+neg_0936,2024-02-16 16:49:54,Bitcoin privacy worse than bank accounts at this point.,user_85,4539,532,negative,16,Friday,55,-1
+neg_0718,2024-02-16 19:17:21,Ransomware demanding Bitcoin. Fueling criminals.,user_27,10666,470,negative,19,Friday,48,-1
+neg_0547,2024-02-16 19:49:41,IP addresses logged with every transaction. Location tracked.,user_21,12972,583,negative,19,Friday,61,-1
+neg_0993,2024-02-17 00:14:39,Smart contract bugs draining wrapped Bitcoin.,user_82,7131,2288,negative,0,Saturday,45,-1
+neg_0850,2024-02-17 02:44:57,Bitcoin hashrate increase equals more energy waste.,user_20,20507,7818,negative,2,Saturday,51,-1
+neg_0734,2024-02-17 02:57:13,Bitcoin phishing emails getting more sophisticated.,user_85,23605,3729,negative,2,Saturday,51,-1
+neg_0161,2024-02-17 05:42:45,Bitcoin DNS attacks redirecting transactions.,user_48,21263,7804,negative,5,Saturday,45,-1
+neg_0819,2024-02-17 09:15:37,Zero-day exploit in popular wallet software.,user_18,9163,8106,negative,9,Saturday,44,-1
+neg_0407,2024-02-17 12:28:08,Bitcoin energy consumption growing exponentially.,user_5,22292,3899,negative,12,Saturday,49,-1
+neg_0595,2024-02-17 23:21:00,Energy intensive mining contradicts climate goals.,user_62,21363,748,negative,23,Saturday,50,-1
+neg_0669,2024-02-18 00:26:17,Every Bitcoin transaction is permanently tracked. Privacy is dead.,user_53,14278,7548,negative,0,Sunday,66,-1
+neg_0583,2024-02-18 01:42:43,Bitcoin mining creating heat islands in areas.,user_88,2947,7950,negative,1,Sunday,46,-1
+neg_0502,2024-02-18 03:28:34,Bitcoin energy problem worse than initial estimates.,user_78,10861,8404,negative,3,Sunday,52,-1
+neg_0005,2024-02-18 08:29:24,Smart contract bugs draining wrapped Bitcoin.,user_58,8537,4955,negative,8,Sunday,45,-1
+neg_0679,2024-02-18 13:26:25,Bitcoin miners fleeing regulations to pollute elsewhere.,user_8,9280,7059,negative,13,Sunday,56,-1
+neg_0157,2024-02-18 21:27:38,Ransomware demanding Bitcoin. Fueling criminals.,user_60,18652,9303,negative,21,Sunday,48,-1
+neg_0088,2024-02-19 00:13:54,Bitcoin vanity address collision risk underestimated.,user_81,10435,6720,negative,0,Monday,53,-1
+neg_0006,2024-02-19 01:00:20,Bitcoin mining using natural gas flaring. Disaster.,user_55,11083,1899,negative,1,Monday,51,-1
+neg_0086,2024-02-19 01:10:23,Bitcoin held by exchanges not backed 1:1. Fractional.,user_28,11648,4270,negative,1,Monday,53,-1
+neg_0942,2024-02-19 03:32:49,Smart contract bugs draining wrapped Bitcoin.,user_98,2207,1503,negative,3,Monday,45,-1
+neg_0878,2024-02-19 11:48:23,Bitcoin using more energy than renewables produce.,user_86,23619,7720,negative,11,Monday,50,-1
+neg_0805,2024-02-19 12:45:42,Bitcoin energy consumption growing exponentially.,user_54,10746,8721,negative,12,Monday,49,-1
+neg_0249,2024-02-20 01:21:50,Quantum computers will break Bitcoin encryption soon.,user_6,16917,3142,negative,1,Tuesday,53,-1
+neg_0165,2024-02-20 13:05:05,Mixing services banned. No privacy on Bitcoin anymore.,user_6,3524,2258,negative,13,Tuesday,54,-1
+neg_0374,2024-02-20 20:08:41,Bitcoin escrow scams increasing. No protection.,user_8,9655,6685,negative,20,Tuesday,47,-1
+neg_0651,2024-02-21 06:54:41,Bitcoin vanity address collision risk underestimated.,user_51,16041,6875,negative,6,Wednesday,53,-1
+neg_0295,2024-02-21 07:33:01,Bitcoin contributing to global warming crisis.,user_72,12651,6231,negative,7,Wednesday,46,-1
+neg_0179,2024-02-21 10:48:20,Ransomware demanding Bitcoin. Fueling criminals.,user_44,11027,7958,negative,10,Wednesday,48,-1
+neg_0849,2024-02-21 12:32:14,Bitcoin network energy consumption at all-time highs.,user_89,24515,6697,negative,12,Wednesday,53,-1
+neg_0347,2024-02-21 20:45:52,Bitcoin mining incentivizing fossil fuel use.,user_7,3063,7883,negative,20,Wednesday,45,-1
+neg_0706,2024-02-22 01:06:35,Bitcoin uses 0.5% of global electricity. Unsustainable.,user_73,17030,8941,negative,1,Thursday,55,-1
+neg_0018,2024-02-22 03:20:54,Bitcoin nodes under DDoS attack daily.,user_63,10401,1908,negative,3,Thursday,38,-1
+neg_0003,2024-02-22 04:41:35,Bitcoin mining competing with residential power needs.,user_78,23937,4497,negative,4,Thursday,54,-1
+neg_0660,2024-02-22 06:37:26,Miners colluding to censor transactions.,user_3,14520,3102,negative,6,Thursday,40,-1
+neg_0202,2024-02-22 20:33:00,Fake Bitcoin investment schemes stealing billions.,user_87,21184,419,negative,20,Thursday,50,-1
+neg_0694,2024-02-22 23:05:20,Public ledger means permanent financial surveillance.,user_59,12416,525,negative,23,Thursday,53,-1
+neg_0933,2024-02-23 03:06:48,Multisig wallets hacked. Not as secure as promised.,user_51,22679,3227,negative,3,Friday,51,-1
+neg_0008,2024-02-23 03:47:44,Public ledger means permanent financial surveillance.,user_51,9819,5969,negative,3,Friday,53,-1
+neg_0621,2024-02-23 03:53:31,Fake Bitcoin investment schemes stealing billions.,user_81,8599,7877,negative,3,Friday,50,-1
+neg_0048,2024-02-23 09:45:13,Bitcoin bridge hacked for $200M. Security is broken.,user_92,10790,7492,negative,9,Friday,52,-1
+neg_0312,2024-02-23 09:48:24,Bitcoin mining uses more electricity than countries.,user_81,5718,5837,negative,9,Friday,52,-1
+neg_0327,2024-02-23 16:04:13,Bitcoin transaction malleability still a security risk.,user_90,13804,2199,negative,16,Friday,55,-1
+neg_0139,2024-02-24 01:36:46,Bitcoin energy problem worse than initial estimates.,user_99,16383,1125,negative,1,Saturday,52,-1
+neg_0384,2024-02-24 07:28:27,Zero-day exploit in popular wallet software.,user_44,17060,7344,negative,7,Saturday,44,-1
+neg_0925,2024-02-24 12:43:06,Miners bribing officials for cheap dirty energy.,user_72,12799,9167,negative,12,Saturday,48,-1
+neg_0955,2024-02-24 14:45:43,Bitcoin carbon footprint equivalent to New Zealand.,user_73,3778,4235,negative,14,Saturday,51,-1
+neg_0326,2024-02-25 01:07:14,Bitcoin mining creating heat islands in areas.,user_95,24790,2275,negative,1,Sunday,46,-1
+neg_0732,2024-02-25 02:23:51,Bitcoin mining competing with essential services.,user_12,14072,9999,negative,2,Sunday,49,-1
+neg_0445,2024-02-25 03:08:01,Bitcoin mining incentivizing fossil fuel use.,user_28,2264,8670,negative,3,Sunday,45,-1
+neg_0150,2024-02-25 03:09:01,Smart contract bugs draining wrapped Bitcoin.,user_5,16008,7682,negative,3,Sunday,45,-1
+neg_0862,2024-02-25 14:09:31,Social engineering attacks bypassing all security.,user_27,7406,3963,negative,14,Sunday,50,-1
+neg_0817,2024-02-25 19:27:56,Every node can see your transaction. Total surveillance.,user_49,20148,3314,negative,19,Sunday,56,-1
+neg_0072,2024-02-25 21:34:34,Exchange data breaches exposing millions of users.,user_3,17488,6273,negative,21,Sunday,50,-1
+neg_0422,2024-02-25 23:32:35,One transaction equals one month household electricity.,user_61,16493,8514,negative,23,Sunday,55,-1
+neg_0907,2024-02-26 05:47:20,Phishing attacks stealing Bitcoin daily. No protection.,user_33,6609,1120,negative,5,Monday,55,-1
+neg_0514,2024-02-26 05:53:58,Bitcoin energy consumption growing exponentially.,user_23,7872,2692,negative,5,Monday,49,-1
+neg_0769,2024-02-26 11:24:34,Bitcoin energy problem worse than initial estimates.,user_5,23810,3238,negative,11,Monday,52,-1
+neg_0873,2024-02-26 13:31:55,Bitcoin ATMs require ID now. Anonymous purchases over.,user_81,17540,6504,negative,13,Monday,54,-1
+neg_0331,2024-02-26 15:00:56,Another major exchange hacked. Funds stolen.,user_9,15630,6462,negative,15,Monday,44,-1
+neg_0224,2024-02-26 20:21:37,Bitcoin network energy consumption at all-time highs.,user_23,4486,6729,negative,20,Monday,53,-1
+neg_0917,2024-02-26 23:28:43,Bitcoin mining using natural gas flaring. Disaster.,user_64,24299,7519,negative,23,Monday,51,-1
+neg_0534,2024-02-27 01:54:23,Bitcoin escrow scams increasing. No protection.,user_76,4107,5888,negative,1,Tuesday,47,-1
+neg_0446,2024-02-27 05:23:21,Methane flaring for Bitcoin still releases CO2.,user_97,19602,3711,negative,5,Tuesday,47,-1
+neg_0968,2024-02-27 06:20:39,Bitcoin mining damaging pristine environmental areas.,user_84,15855,991,negative,6,Tuesday,53,-1
+neg_0169,2024-02-27 07:45:04,Renewable energy claims by miners are greenwashing.,user_11,19388,5283,negative,7,Tuesday,51,-1
+neg_0869,2024-02-27 13:45:40,Bitcoin lightning network vulnerabilities discovered.,user_14,12029,8658,negative,13,Tuesday,53,-1
+neg_0130,2024-02-27 16:19:42,Wallet backup phrases stolen in supply chain attack.,user_45,5335,5925,negative,16,Tuesday,52,-1
+neg_0889,2024-02-27 17:50:18,Wallet backup phrases stolen in supply chain attack.,user_76,9692,4966,negative,17,Tuesday,52,-1
+neg_0401,2024-02-27 17:58:01,Bitcoin hashrate increase equals more energy waste.,user_89,6088,7217,negative,17,Tuesday,51,-1
+neg_0274,2024-02-27 18:21:53,Bitcoin carbon footprint equivalent to New Zealand.,user_92,19669,573,negative,18,Tuesday,51,-1
+neg_0280,2024-02-27 19:43:35,Public ledger means public finances. Worse than cash.,user_85,9925,6962,negative,19,Tuesday,53,-1
+neg_0417,2024-02-28 01:29:52,Clipboard malware changing addresses during copy-paste.,user_19,19970,8927,negative,1,Wednesday,55,-1
+neg_0296,2024-02-28 07:37:57,Phishing attacks stealing Bitcoin daily. No protection.,user_68,12144,9780,negative,7,Wednesday,55,-1
+neg_0548,2024-02-28 13:15:29,Bitcoin inheritance impossible to secure properly.,user_4,13612,9242,negative,13,Wednesday,50,-1
+neg_0059,2024-02-28 16:01:51,Bitcoin ATMs require ID now. Anonymous purchases over.,user_61,11802,7488,negative,16,Wednesday,54,-1
+neg_0337,2024-02-28 16:20:51,Crypto mining farms abandoned when energy costs rise.,user_11,2005,9857,negative,16,Wednesday,53,-1
+neg_0335,2024-02-28 20:08:24,Bitcoin inheritance impossible to secure properly.,user_81,4537,9216,negative,20,Wednesday,50,-1
+neg_0822,2024-02-29 08:13:20,Bitcoin uses 0.5% of global electricity. Unsustainable.,user_12,8647,5792,negative,8,Thursday,55,-1
+neg_0437,2024-02-29 08:50:53,Carbon credits from miners are fraudulent.,user_34,11639,5755,negative,8,Thursday,42,-1
+neg_0269,2024-02-29 19:48:29,Bitcoin phishing emails getting more sophisticated.,user_78,18020,2447,negative,19,Thursday,51,-1
+neg_0107,2024-02-29 19:50:54,Proof of Work is outdated. Ethereum already moved on.,user_78,24615,6789,negative,19,Thursday,53,-1
+neg_0644,2024-03-01 02:24:52,Bitcoin mining noise pollution affecting communities.,user_28,16033,5677,negative,2,Friday,53,-1
+neg_0266,2024-03-01 16:45:51,Blockchain analysis revealing sensitive user patterns.,user_12,18886,2404,negative,16,Friday,54,-1
+neg_0389,2024-03-01 21:39:32,Bitcoin using more energy than renewables produce.,user_52,19739,5656,negative,21,Friday,50,-1
+neg_0276,2024-03-01 22:23:22,Bitcoin DNS attacks redirecting transactions.,user_53,18955,7661,negative,22,Friday,45,-1
+neg_0366,2024-03-02 02:43:08,Miners relocating to coal regions. Emissions spiking.,user_58,14631,7052,negative,2,Saturday,53,-1
+neg_0220,2024-03-02 03:42:24,Fake Bitcoin investment schemes stealing billions.,user_16,22163,5383,negative,3,Saturday,50,-1
+neg_0785,2024-03-02 17:19:22,Renewable energy claims by miners are greenwashing.,user_64,14135,3769,negative,17,Saturday,51,-1
+neg_0645,2024-03-02 17:30:43,Bitcoin mining operations abandoned leaving toxic waste.,user_2,9545,634,negative,17,Saturday,56,-1
+neg_0145,2024-03-02 20:12:51,Proof of Work is waste of computational resources.,user_48,5599,6447,negative,20,Saturday,50,-1
+neg_0232,2024-03-03 02:02:31,Bitcoin bridge hacked for $200M. Security is broken.,user_13,16048,330,negative,2,Sunday,52,-1
+neg_0977,2024-03-03 02:28:35,Fake Bitcoin investment schemes stealing billions.,user_91,19543,1470,negative,2,Sunday,50,-1
+neg_0708,2024-03-03 03:51:52,Malware targeting Bitcoin users increasing 400%.,user_14,2595,7322,negative,3,Sunday,48,-1
+neg_0499,2024-03-03 06:13:42,Social engineering attacks bypassing all security.,user_4,13922,3743,negative,6,Sunday,50,-1
+neg_0409,2024-03-03 07:35:39,Bitcoin mining draining renewable energy from grid.,user_95,23231,8530,negative,7,Sunday,51,-1
+neg_0114,2024-03-03 11:15:28,Miners bribing officials for cheap dirty energy.,user_70,23548,2726,negative,11,Sunday,48,-1
+neg_0885,2024-03-03 18:13:12,Methane flaring for Bitcoin still releases CO2.,user_5,10506,3696,negative,18,Sunday,47,-1
+neg_0724,2024-03-03 19:23:50,Energy intensive mining contradicts climate goals.,user_19,20931,7143,negative,19,Sunday,50,-1
+neg_0866,2024-03-03 19:35:06,Malware targeting Bitcoin users increasing 400%.,user_50,24140,4863,negative,19,Sunday,48,-1
+neg_0370,2024-03-03 23:09:52,Proof of Work destroying the planet for digital money.,user_97,22053,9514,negative,23,Sunday,54,-1
+neg_0518,2024-03-04 01:08:38,Custodial wallets freezing funds without explanation.,user_86,17338,818,negative,1,Monday,53,-1
+neg_0616,2024-03-04 04:39:02,Crypto mining farms abandoned when energy costs rise.,user_74,23287,1715,negative,4,Monday,53,-1
+neg_0226,2024-03-04 11:21:42,Wallet backup phrases stolen in supply chain attack.,user_32,18477,5848,negative,11,Monday,52,-1
+neg_0124,2024-03-04 16:08:52,Smart contract bugs draining wrapped Bitcoin.,user_49,21068,856,negative,16,Monday,45,-1
+neg_0875,2024-03-04 17:31:00,Miners colluding to censor transactions.,user_92,21442,8616,negative,17,Monday,40,-1
+neg_0259,2024-03-04 23:23:52,Bitcoin nodes under DDoS attack daily.,user_25,21604,7264,negative,23,Monday,38,-1
+neg_0904,2024-03-05 00:43:42,Bitcoin bridge hacked for $200M. Security is broken.,user_21,6656,2184,negative,0,Tuesday,52,-1
+neg_0474,2024-03-05 07:59:45,Carbon credits from miners are fraudulent.,user_88,13444,9217,negative,7,Tuesday,42,-1
+neg_0146,2024-03-05 09:06:46,Crypto mining farms abandoned when energy costs rise.,user_41,24878,7416,negative,9,Tuesday,53,-1
+neg_0170,2024-03-05 13:49:45,One transaction equals one month household electricity.,user_79,5136,7471,negative,13,Tuesday,55,-1
+neg_0561,2024-03-05 17:39:42,Bitcoin escrow scams increasing. No protection.,user_62,18566,9899,negative,17,Tuesday,47,-1
+neg_0482,2024-03-05 23:07:05,Bitcoin energy consumption growing exponentially.,user_74,13665,4533,negative,23,Tuesday,49,-1
+neg_0683,2024-03-06 05:59:15,Wallet providers cooperating with surveillance agencies.,user_18,10298,7599,negative,5,Wednesday,56,-1
+neg_0689,2024-03-06 13:38:29,Exchange data breaches exposing millions of users.,user_53,5977,5348,negative,13,Wednesday,50,-1
+neg_0794,2024-03-06 20:01:00,Bitcoin mining uses more electricity than countries.,user_86,11609,1037,negative,20,Wednesday,52,-1
+neg_0257,2024-03-07 03:45:18,Energy intensive mining contradicts climate goals.,user_80,10819,4985,negative,3,Thursday,50,-1
+neg_0528,2024-03-07 05:03:38,Bitcoin mining noise pollution affecting communities.,user_80,20034,4726,negative,5,Thursday,53,-1
+neg_0653,2024-03-07 05:38:03,Miners relocating to coal regions. Emissions spiking.,user_86,2345,8853,negative,5,Thursday,53,-1
+neg_0193,2024-03-07 08:05:46,Every node can see your transaction. Total surveillance.,user_13,8948,900,negative,8,Thursday,56,-1
+neg_0255,2024-03-07 10:52:54,Privacy features removed from wallets. Regulators won.,user_96,13378,8788,negative,10,Thursday,54,-1
+neg_0245,2024-03-07 11:28:28,Every Bitcoin transaction is permanently tracked. Privacy is dead.,user_55,19101,6205,negative,11,Thursday,66,-1
+neg_0026,2024-03-07 12:08:14,Tornado Cash banned. Privacy tools are illegal now.,user_29,19371,8909,negative,12,Thursday,51,-1
+neg_0134,2024-03-07 12:12:46,Bitcoin vanity address collision risk underestimated.,user_18,15039,4752,negative,12,Thursday,53,-1
+neg_0553,2024-03-08 02:20:19,Bitcoin mining competing with residential power needs.,user_55,1742,8003,negative,2,Friday,54,-1
+neg_0861,2024-03-08 04:35:56,Proof of Work is waste of computational resources.,user_89,2337,6164,negative,4,Friday,50,-1
+neg_0701,2024-03-08 11:21:16,SIM swap attacks emptying wallets in minutes.,user_28,12394,9911,negative,11,Friday,45,-1
+neg_0766,2024-03-08 22:00:35,Renewable energy claims by miners are greenwashing.,user_21,1661,4792,negative,22,Friday,51,-1
+neg_0457,2024-03-08 23:44:05,Proof of Work is outdated. Ethereum already moved on.,user_87,9882,6079,negative,23,Friday,53,-1
+neg_0637,2024-03-09 11:32:27,Bitcoin network energy consumption at all-time highs.,user_7,23522,5045,negative,11,Saturday,53,-1
+neg_0166,2024-03-09 12:40:35,Exchange data breaches exposing millions of users.,user_95,8345,5925,negative,12,Saturday,50,-1
+neg_0827,2024-03-09 16:05:54,Bitcoin leaves a trail forever. Cash was more private.,user_63,13190,7691,negative,16,Saturday,54,-1
+neg_0881,2024-03-09 23:36:30,Bitcoin leaves a trail forever. Cash was more private.,user_36,2062,417,negative,23,Saturday,54,-1
+neg_0383,2024-03-10 02:19:40,Bitcoin DNS attacks redirecting transactions.,user_83,7144,8323,negative,2,Sunday,45,-1
+neg_0204,2024-03-10 02:24:37,Bitcoin uses 0.5% of global electricity. Unsustainable.,user_2,6012,7317,negative,2,Sunday,55,-1
+neg_0797,2024-03-10 03:15:11,Privacy coins getting delisted everywhere. Bitcoin next.,user_99,17612,6551,negative,3,Sunday,56,-1
+neg_0097,2024-03-10 03:25:52,Chainalysis can link your wallet to your name in seconds.,user_29,11016,4341,negative,3,Sunday,57,-1
+neg_0606,2024-03-10 04:40:43,Time-locked transactions exposing future plans.,user_26,16915,5695,negative,4,Sunday,47,-1
+neg_0297,2024-03-10 12:30:31,Bitcoin mining creating heat islands in areas.,user_35,9301,6528,negative,12,Sunday,46,-1
+neg_0688,2024-03-10 17:48:40,Custodial wallets freezing funds without explanation.,user_2,23462,4428,negative,17,Sunday,53,-1
+neg_0573,2024-03-10 22:00:32,Phishing attacks stealing Bitcoin daily. No protection.,user_44,5721,4725,negative,22,Sunday,55,-1
+neg_0242,2024-03-10 22:24:57,Bitcoin mining damaging pristine environmental areas.,user_34,22776,7677,negative,22,Sunday,53,-1
+neg_0801,2024-03-11 00:03:59,Zero-day exploit in popular wallet software.,user_52,19528,8478,negative,0,Monday,44,-1
+neg_0092,2024-03-11 00:25:23,Another major exchange hacked. Funds stolen.,user_38,4892,8960,negative,0,Monday,44,-1
+neg_0781,2024-03-11 00:43:10,Bitcoin energy consumption doubled in 12 months.,user_71,5937,5613,negative,0,Monday,48,-1
+neg_0414,2024-03-11 01:39:52,Bitcoin mining competing with residential power needs.,user_45,10857,7288,negative,1,Monday,54,-1
+neg_0627,2024-03-11 02:18:27,Bitcoin held by exchanges not backed 1:1. Fractional.,user_8,24960,7066,negative,2,Monday,53,-1
+neg_0301,2024-03-11 07:59:30,Miners colluding to censor transactions.,user_1,13354,2865,negative,7,Monday,40,-1
+neg_0687,2024-03-11 14:36:28,Time-locked transactions exposing future plans.,user_93,10386,4164,negative,14,Monday,47,-1
+neg_0891,2024-03-11 15:50:56,Bitcoin DNS attacks redirecting transactions.,user_82,24213,3558,negative,15,Monday,45,-1
+neg_0969,2024-03-11 18:55:51,Bitcoin escrow scams increasing. No protection.,user_34,15667,6179,negative,18,Monday,47,-1
+neg_0129,2024-03-11 21:44:54,Fake wallet apps stealing Bitcoin daily.,user_87,10676,8032,negative,21,Monday,40,-1
+neg_0739,2024-03-12 00:17:52,Bitcoin DNS attacks redirecting transactions.,user_39,7700,8332,negative,0,Tuesday,45,-1
+neg_0133,2024-03-12 00:46:00,Bitcoin miners fleeing regulations to pollute elsewhere.,user_40,11103,9239,negative,0,Tuesday,56,-1
+neg_0207,2024-03-12 00:54:04,Ledger database leaked. Users exposed to attacks.,user_51,24127,8203,negative,0,Tuesday,49,-1
+neg_0155,2024-03-12 01:42:26,Proof of Work destroying the planet for digital money.,user_86,11903,7205,negative,1,Tuesday,54,-1
+neg_0388,2024-03-12 01:56:15,Bitcoin carbon footprint equivalent to New Zealand.,user_16,18198,7613,negative,1,Tuesday,51,-1
+neg_0964,2024-03-12 02:59:52,Bitcoin DNS attacks redirecting transactions.,user_54,19878,9833,negative,2,Tuesday,45,-1
+neg_0368,2024-03-12 03:32:10,SIM swap attacks emptying wallets in minutes.,user_55,22031,2466,negative,3,Tuesday,45,-1
+neg_0895,2024-03-12 06:00:54,Bitcoin has no solution without changing consensus.,user_97,16682,1840,negative,6,Tuesday,51,-1
+neg_0596,2024-03-12 07:58:51,E-waste from mining rigs piling up in landfills.,user_20,3684,4544,negative,7,Tuesday,48,-1
+neg_0570,2024-03-12 13:40:26,Quantum computers will break Bitcoin encryption soon.,user_79,23049,5574,negative,13,Tuesday,53,-1
+neg_0013,2024-03-12 14:25:03,Quantum computers will break Bitcoin encryption soon.,user_97,8495,6983,negative,14,Tuesday,53,-1
+neg_0222,2024-03-12 22:14:11,Privacy coins getting delisted everywhere. Bitcoin next.,user_27,12719,5558,negative,22,Tuesday,56,-1
+neg_0475,2024-03-12 23:08:04,Phishing attacks stealing Bitcoin daily. No protection.,user_87,16344,3177,negative,23,Tuesday,55,-1
+neg_0143,2024-03-13 02:09:27,Hardware wallet vulnerability discovered. Funds at risk.,user_70,22395,5944,negative,2,Wednesday,56,-1
+neg_0932,2024-03-13 05:25:03,Custodial wallets freezing funds without explanation.,user_81,24204,8392,negative,5,Wednesday,53,-1
+neg_0064,2024-03-13 10:38:55,Bitcoin inheritance impossible to secure properly.,user_52,17764,4731,negative,10,Wednesday,50,-1
+neg_0520,2024-03-13 18:40:47,Bitcoin lightning network vulnerabilities discovered.,user_78,4975,9209,negative,18,Wednesday,53,-1
+neg_0014,2024-03-13 19:50:49,Bitcoin mining using natural gas flaring. Disaster.,user_52,4857,5370,negative,19,Wednesday,51,-1
+neg_0984,2024-03-13 21:00:10,Bitcoin privacy worse than bank accounts at this point.,user_70,15905,2197,negative,21,Wednesday,55,-1
+neg_0489,2024-03-13 22:47:05,Fake wallet apps stealing Bitcoin daily.,user_77,21312,9012,negative,22,Wednesday,40,-1
+neg_0027,2024-03-13 23:20:14,Bitcoin mining creating heat islands in areas.,user_18,3131,5032,negative,23,Wednesday,46,-1
+neg_0149,2024-03-14 22:33:30,Bitcoin mining competing with essential services.,user_70,9826,7446,negative,22,Thursday,49,-1
+neg_0838,2024-03-15 01:50:30,Bitcoin privacy worse than bank accounts at this point.,user_39,23324,7773,negative,1,Friday,55,-1
+neg_0278,2024-03-15 07:28:36,Bitcoin has no solution without changing consensus.,user_22,10013,4529,negative,7,Friday,51,-1
+neg_0782,2024-03-15 13:00:40,Crypto mining farms abandoned when energy costs rise.,user_17,18863,7585,negative,13,Friday,53,-1
+neg_0834,2024-03-15 19:47:26,Bitcoin ATM skimmers stealing keys and cash.,user_59,9330,1274,negative,19,Friday,44,-1
+neg_0552,2024-03-15 21:11:43,Malware targeting Bitcoin users increasing 400%.,user_71,5893,6979,negative,21,Friday,48,-1
+neg_0036,2024-03-15 23:17:06,Coal-powered mining operations polluting heavily.,user_33,24542,7930,negative,23,Friday,49,-1
+neg_0104,2024-03-16 16:53:12,Phishing attacks stealing Bitcoin daily. No protection.,user_79,9586,5518,negative,16,Saturday,55,-1
+neg_0127,2024-03-16 19:10:08,Bitcoin escrow scams increasing. No protection.,user_71,20711,1034,negative,19,Saturday,47,-1
+neg_0046,2024-03-16 21:15:36,Bitcoin has no solution without changing consensus.,user_68,21855,760,negative,21,Saturday,51,-1
+neg_0153,2024-03-16 21:56:07,Bitcoin energy problem worse than initial estimates.,user_38,19270,8559,negative,21,Saturday,52,-1
+neg_0946,2024-03-17 01:51:02,Chainalysis can link your wallet to your name in seconds.,user_6,20747,6242,negative,1,Sunday,57,-1
+neg_0381,2024-03-17 05:01:22,Law enforcement has blockchain tracking tools now.,user_6,18206,1870,negative,5,Sunday,50,-1
+neg_0824,2024-03-17 06:53:33,Multisig wallets hacked. Not as secure as promised.,user_1,15744,4712,negative,6,Sunday,51,-1
+neg_0723,2024-03-17 09:39:46,Bitcoin mining using natural gas flaring. Disaster.,user_93,12726,5235,negative,9,Sunday,51,-1
+neg_0118,2024-03-17 13:53:58,Coal-powered mining operations polluting heavily.,user_36,9110,912,negative,13,Sunday,49,-1
+neg_0938,2024-03-17 18:35:38,Bitcoin transaction malleability still a security risk.,user_49,14358,8469,negative,18,Sunday,55,-1
+neg_0342,2024-03-18 01:37:40,Energy intensive mining contradicts climate goals.,user_71,14148,7580,negative,1,Monday,50,-1
+neg_0183,2024-03-18 02:43:07,Social engineering attacks bypassing all security.,user_75,19779,1324,negative,2,Monday,50,-1
+neg_0160,2024-03-18 03:23:09,Fake hardware wallets sold on Amazon with backdoors.,user_96,16707,7653,negative,3,Monday,52,-1
+neg_0491,2024-03-18 07:14:32,Bitcoin mining operations abandoned leaving toxic waste.,user_7,13319,7891,negative,7,Monday,56,-1
+neg_0396,2024-03-18 20:38:55,One transaction uses energy to power homes for weeks.,user_25,6795,1609,negative,20,Monday,53,-1
+neg_0317,2024-03-18 20:45:30,Bitcoin mining using natural gas flaring. Disaster.,user_19,4549,8773,negative,20,Monday,51,-1
+neg_0459,2024-03-19 00:14:46,Bitcoin energy consumption growing exponentially.,user_17,8410,1228,negative,0,Tuesday,49,-1
+neg_0138,2024-03-19 06:32:45,Coal-powered mining operations polluting heavily.,user_66,17667,312,negative,6,Tuesday,49,-1
+neg_0842,2024-03-19 07:06:29,Bitcoin inheritance impossible to secure properly.,user_18,3993,9060,negative,7,Tuesday,50,-1
+neg_0132,2024-03-19 09:53:43,Blockchain transparency means government sees everything you buy.,user_43,19450,4488,negative,9,Tuesday,65,-1
+neg_0263,2024-03-19 10:58:51,Miners bribing officials for cheap dirty energy.,user_51,7586,7309,negative,10,Tuesday,48,-1
+neg_0981,2024-03-19 13:14:30,Bitcoin mining operations causing grid strain.,user_85,2898,4244,negative,13,Tuesday,46,-1
+neg_0439,2024-03-19 15:25:26,Bitcoin leaves a trail forever. Cash was more private.,user_94,17260,3431,negative,15,Tuesday,54,-1
+neg_0110,2024-03-20 06:59:59,Public ledger means public finances. Worse than cash.,user_8,6316,3574,negative,6,Wednesday,53,-1
+neg_0314,2024-03-20 07:11:15,Bitcoin mining incentivizing fossil fuel use.,user_89,22195,1350,negative,7,Wednesday,45,-1
+neg_0373,2024-03-20 09:57:35,Your employer can see your Bitcoin transaction history.,user_23,19833,3286,negative,9,Wednesday,55,-1
+neg_0488,2024-03-20 10:34:43,Privacy features removed from wallets. Regulators won.,user_40,13263,2201,negative,10,Wednesday,54,-1
+neg_0206,2024-03-20 13:59:57,Bitcoin mining using natural gas flaring. Disaster.,user_64,23865,3539,negative,13,Wednesday,51,-1
+neg_0424,2024-03-20 23:48:39,Zero-day exploit in popular wallet software.,user_6,18158,7336,negative,23,Wednesday,44,-1
+neg_0599,2024-03-21 02:31:57,Fake hardware wallets sold on Amazon with backdoors.,user_87,24452,7757,negative,2,Thursday,52,-1
+neg_0196,2024-03-21 11:55:29,Bitcoin network energy consumption at all-time highs.,user_32,13286,3863,negative,11,Thursday,53,-1
+neg_0300,2024-03-21 12:48:27,Ransomware demanding Bitcoin. Fueling criminals.,user_16,15498,5954,negative,12,Thursday,48,-1
+neg_0038,2024-03-21 12:49:32,Bitcoin mining banned in countries for energy waste.,user_50,4822,6211,negative,12,Thursday,52,-1
+neg_0806,2024-03-21 13:30:16,Crypto mining farms abandoned when energy costs rise.,user_13,7034,4555,negative,13,Thursday,53,-1
+neg_0608,2024-03-21 14:07:21,Smart contract bugs draining wrapped Bitcoin.,user_78,6961,4711,negative,14,Thursday,45,-1
+neg_0893,2024-03-21 15:49:22,IP addresses logged with every transaction. Location tracked.,user_58,16599,6064,negative,15,Thursday,61,-1
+neg_0852,2024-03-21 17:14:59,Law enforcement has blockchain tracking tools now.,user_14,5224,4403,negative,17,Thursday,50,-1
+neg_0413,2024-03-21 17:45:42,Exchange data breaches exposing millions of users.,user_98,20696,4991,negative,17,Thursday,50,-1
+neg_0790,2024-03-21 22:39:42,Blockchain analysis revealing sensitive user patterns.,user_52,21628,3096,negative,22,Thursday,54,-1
+neg_0864,2024-03-21 23:50:48,Social engineering attacks bypassing all security.,user_63,24358,7325,negative,23,Thursday,50,-1
+neg_0120,2024-03-22 03:44:35,Bitcoin mining causing blackouts in developing nations.,user_4,4324,5383,negative,3,Friday,55,-1
+neg_0526,2024-03-22 05:22:57,Blockchain analysis revealing sensitive user patterns.,user_96,22781,7102,negative,5,Friday,54,-1
+neg_0957,2024-03-22 06:47:16,Tornado Cash banned. Privacy tools are illegal now.,user_82,20909,5842,negative,6,Friday,51,-1
+neg_0908,2024-03-22 08:06:44,Fake wallet apps stealing Bitcoin daily.,user_82,14051,2508,negative,8,Friday,40,-1
+neg_0497,2024-03-22 08:50:58,SIM swap attacks emptying wallets in minutes.,user_96,17261,8794,negative,8,Friday,45,-1
+neg_0698,2024-03-22 10:33:20,Bitcoin lightning network vulnerabilities discovered.,user_55,20394,1517,negative,10,Friday,53,-1
+neg_0711,2024-03-22 16:04:20,Privacy features removed from wallets. Regulators won.,user_77,9417,341,negative,16,Friday,54,-1
+neg_0354,2024-03-22 18:34:06,Wallet providers cooperating with surveillance agencies.,user_9,2939,3913,negative,18,Friday,56,-1
+neg_0137,2024-03-22 19:29:02,Cooling systems for miners wasting massive water.,user_37,5036,9182,negative,19,Friday,49,-1
+neg_0821,2024-03-23 00:02:47,Energy intensive mining contradicts climate goals.,user_42,12056,3051,negative,0,Saturday,50,-1
+neg_0205,2024-03-23 00:42:51,Bitcoin inheritance impossible to secure properly.,user_4,21427,3458,negative,0,Saturday,50,-1
+neg_0479,2024-03-23 01:26:29,Ransomware demanding Bitcoin. Fueling criminals.,user_86,23051,9144,negative,1,Saturday,48,-1
+neg_0485,2024-03-23 01:55:51,Public ledger means permanent financial surveillance.,user_82,18798,5712,negative,1,Saturday,53,-1
+neg_0385,2024-03-23 04:19:21,Another major exchange hacked. Funds stolen.,user_27,17868,6012,negative,4,Saturday,44,-1
+neg_0892,2024-03-23 06:13:38,Bitcoin mining competing with essential services.,user_2,16786,9837,negative,6,Saturday,49,-1
+neg_0057,2024-03-23 06:50:30,Exchange data breaches exposing millions of users.,user_22,14081,5994,negative,6,Saturday,50,-1
+neg_0836,2024-03-23 12:25:55,Bitcoin core bug could allow double spending. Urgent.,user_42,18962,1812,negative,12,Saturday,53,-1
+neg_0049,2024-03-24 00:02:23,Cold storage compromised. Nothing is truly safe.,user_49,4246,3919,negative,0,Sunday,48,-1
+neg_0555,2024-03-24 04:48:52,Bitcoin uses 0.5% of global electricity. Unsustainable.,user_23,10122,9203,negative,4,Sunday,55,-1
+neg_0007,2024-03-24 13:07:19,Bitcoin phishing emails getting more sophisticated.,user_53,17808,1329,negative,13,Sunday,51,-1
+neg_0358,2024-03-24 14:38:16,Bitcoin nodes under DDoS attack daily.,user_39,18133,9914,negative,14,Sunday,38,-1
+neg_0588,2024-03-24 14:43:24,Bitcoin mining draining renewable energy from grid.,user_30,16086,6231,negative,14,Sunday,51,-1
+neg_0692,2024-03-24 18:35:46,Bitcoin mining banned in countries for energy waste.,user_8,22594,3235,negative,18,Sunday,52,-1
+neg_0318,2024-03-25 03:18:03,Every Bitcoin transaction is permanently tracked. Privacy is dead.,user_58,24819,5620,negative,3,Monday,66,-1
+neg_0731,2024-03-25 04:12:51,Fake hardware wallets sold on Amazon with backdoors.,user_23,5591,1102,negative,4,Monday,52,-1
+neg_0884,2024-03-25 05:36:37,Your employer can see your Bitcoin transaction history.,user_82,14061,4659,negative,5,Monday,55,-1
+neg_0771,2024-03-25 12:41:01,Bitcoin phishing emails getting more sophisticated.,user_51,9750,7349,negative,12,Monday,51,-1
+neg_0077,2024-03-25 15:53:30,Proof of Work is outdated. Ethereum already moved on.,user_19,11372,9909,negative,15,Monday,53,-1
+neg_0947,2024-03-26 00:21:53,Law enforcement has blockchain tracking tools now.,user_29,23064,1450,negative,0,Tuesday,50,-1
+neg_0871,2024-03-26 12:04:59,Ransomware demanding Bitcoin. Fueling criminals.,user_36,21071,1233,negative,12,Tuesday,48,-1
+neg_0847,2024-03-26 13:49:29,Custodial wallets freezing funds without explanation.,user_26,23917,8846,negative,13,Tuesday,53,-1
+neg_0916,2024-03-26 16:09:02,Zero-day exploit in popular wallet software.,user_66,15814,6237,negative,16,Tuesday,44,-1
+neg_0727,2024-03-26 16:15:23,Transparent blockchain equals transparent wallet balances.,user_59,22655,6547,negative,16,Tuesday,58,-1
+neg_0221,2024-03-26 19:34:11,Bitcoin bridge hacked for $200M. Security is broken.,user_55,10649,7359,negative,19,Tuesday,52,-1
+neg_0691,2024-03-27 02:50:03,Your Bitcoin privacy depends on everyone else. Broken.,user_93,6691,1026,negative,2,Wednesday,54,-1
+neg_0047,2024-03-27 03:50:26,Bitcoin privacy worse than bank accounts at this point.,user_46,17908,1903,negative,3,Wednesday,55,-1
+neg_0197,2024-03-27 04:51:05,Every Bitcoin transaction is permanently tracked. Privacy is dead.,user_88,22022,4878,negative,4,Wednesday,66,-1
+neg_0243,2024-03-27 06:27:39,Bitcoin transaction malleability still a security risk.,user_56,20483,7916,negative,6,Wednesday,55,-1
+neg_0217,2024-03-27 18:16:30,Bitcoin nodes under DDoS attack daily.,user_18,15058,742,negative,18,Wednesday,38,-1
+neg_0177,2024-03-27 20:38:30,Wallet backup phrases stolen in supply chain attack.,user_32,11304,1493,negative,20,Wednesday,52,-1
+neg_0767,2024-03-27 21:22:52,Bitcoin privacy worse than bank accounts at this point.,user_23,23563,484,negative,21,Wednesday,55,-1
+neg_0940,2024-03-27 21:51:05,Bitcoin mining uses more electricity than countries.,user_1,1711,9037,negative,21,Wednesday,52,-1
+neg_0632,2024-03-28 00:23:55,Cooling systems for miners wasting massive water.,user_80,3529,5194,negative,0,Thursday,49,-1
+neg_0865,2024-03-28 01:51:05,Bitcoin mining creating heat islands in areas.,user_45,3282,6868,negative,1,Thursday,46,-1
+neg_0880,2024-03-28 07:29:00,Privacy features removed from wallets. Regulators won.,user_20,7549,3146,negative,7,Thursday,54,-1
+neg_0021,2024-03-28 17:37:02,Wrench attack risk with Bitcoin. Physical danger.,user_47,16331,8848,negative,17,Thursday,49,-1
+neg_0031,2024-03-28 20:16:57,Bitcoin inheritance impossible to secure properly.,user_27,19749,1876,negative,20,Thursday,50,-1
+neg_0640,2024-03-29 05:36:09,Miners bribing officials for cheap dirty energy.,user_15,3345,5263,negative,5,Friday,48,-1
+neg_0928,2024-03-29 06:36:50,Carbon credits from miners are fraudulent.,user_54,15925,8743,negative,6,Friday,42,-1
+neg_0363,2024-03-29 12:13:34,Proof of Work is waste of computational resources.,user_51,16514,4261,negative,12,Friday,50,-1
+neg_0246,2024-03-29 12:33:15,Bitcoin hashrate increase equals more energy waste.,user_11,9860,5491,negative,12,Friday,51,-1
+neg_0676,2024-03-29 12:41:33,Blockchain transparency means government sees everything you buy.,user_42,20944,5291,negative,12,Friday,65,-1
+neg_0540,2024-03-30 00:49:07,Bitcoin contributing to global warming crisis.,user_68,13939,3392,negative,0,Saturday,46,-1
+neg_0412,2024-03-30 22:10:03,Bitcoin ATMs require ID now. Anonymous purchases over.,user_76,6775,3432,negative,22,Saturday,54,-1
+neg_0609,2024-03-31 00:01:44,Exchange data breaches exposing millions of users.,user_9,18807,3127,negative,0,Sunday,50,-1
+neg_0716,2024-03-31 10:30:04,Fake Bitcoin investment schemes stealing billions.,user_70,9923,9377,negative,10,Sunday,50,-1
+neg_0061,2024-03-31 11:54:26,One transaction equals one month household electricity.,user_75,19447,7892,negative,11,Sunday,55,-1
+neg_0776,2024-03-31 13:21:04,Custodial wallets freezing funds without explanation.,user_84,24118,3414,negative,13,Sunday,53,-1
+neg_0492,2024-03-31 15:50:00,Bitcoin mining creating heat islands in areas.,user_84,15011,6978,negative,15,Sunday,46,-1
+neg_0656,2024-03-31 18:14:54,Bitcoin mining e-waste generation accelerating.,user_6,22641,2057,negative,18,Sunday,47,-1
+neg_0355,2024-03-31 19:00:13,Energy for Bitcoin could power hospitals instead.,user_7,2002,960,negative,19,Sunday,49,-1
+neg_0845,2024-04-01 06:32:35,Bitcoin mining creating heat islands in areas.,user_41,20690,1865,negative,6,Monday,46,-1
+neg_0468,2024-04-01 09:10:16,Bitcoin mining operations abandoned leaving toxic waste.,user_89,14824,8269,negative,9,Monday,56,-1
+neg_1000,2024-04-01 11:53:28,Bitcoin mining causing blackouts in developing nations.,user_40,11194,3800,negative,11,Monday,55,-1
+neg_0449,2024-04-01 21:45:20,Bitcoin ATM skimmers stealing keys and cash.,user_70,24812,5696,negative,21,Monday,44,-1
+neg_0387,2024-04-02 23:00:44,Proof of Work is waste of computational resources.,user_12,11368,2369,negative,23,Tuesday,50,-1
+neg_0399,2024-04-03 07:42:55,Bitcoin ATM skimmers stealing keys and cash.,user_47,16767,3042,negative,7,Wednesday,44,-1
+neg_0558,2024-04-03 08:29:41,Zero-day exploit in popular wallet software.,user_17,21843,1728,negative,8,Wednesday,44,-1
+neg_0742,2024-04-03 09:41:25,Bitcoin contributing to global warming crisis.,user_88,1950,5246,negative,9,Wednesday,46,-1
+neg_0351,2024-04-03 10:19:22,Bitcoin held by exchanges not backed 1:1. Fractional.,user_62,23600,4923,negative,10,Wednesday,53,-1
+neg_0460,2024-04-03 22:08:50,Time-locked transactions exposing future plans.,user_72,5972,7014,negative,22,Wednesday,47,-1
+neg_0754,2024-04-03 23:42:23,E-waste from mining rigs piling up in landfills.,user_38,3420,8426,negative,23,Wednesday,48,-1
+neg_0192,2024-04-04 05:19:22,Fake hardware wallets sold on Amazon with backdoors.,user_39,23153,2049,negative,5,Thursday,52,-1
+neg_0068,2024-04-04 05:34:41,Fake hardware wallets sold on Amazon with backdoors.,user_8,9452,4700,negative,5,Thursday,52,-1
+neg_0287,2024-04-04 09:24:12,Proof of Work destroying the planet for digital money.,user_68,1829,6331,negative,9,Thursday,54,-1
+neg_0063,2024-04-04 10:14:42,Bitcoin energy consumption growing exponentially.,user_18,13921,9796,negative,10,Thursday,49,-1
+neg_0493,2024-04-04 17:14:38,One transaction uses energy to power homes for weeks.,user_4,14848,7188,negative,17,Thursday,53,-1
+neg_0611,2024-04-04 20:21:32,Bitcoin mining draining renewable energy from grid.,user_11,5443,8502,negative,20,Thursday,51,-1
+neg_0084,2024-04-04 22:51:29,Bitcoin nodes under DDoS attack daily.,user_61,12530,1608,negative,22,Thursday,38,-1
+neg_0490,2024-04-05 03:15:54,Proof of Work destroying the planet for digital money.,user_2,8724,5873,negative,3,Friday,54,-1
+neg_0380,2024-04-05 06:31:50,Renewable energy claims by miners are greenwashing.,user_26,11390,3382,negative,6,Friday,51,-1
+neg_0012,2024-04-05 11:11:05,Hardware wallet vulnerability discovered. Funds at risk.,user_79,9268,4757,negative,11,Friday,56,-1
+neg_0167,2024-04-05 12:20:56,Wrench attack risk with Bitcoin. Physical danger.,user_81,16544,1948,negative,12,Friday,49,-1
+neg_0811,2024-04-05 15:46:32,Bitcoin mining incentivizing fossil fuel use.,user_59,14712,4468,negative,15,Friday,45,-1
+neg_0576,2024-04-05 17:39:18,Fake hardware wallets sold on Amazon with backdoors.,user_5,8674,765,negative,17,Friday,52,-1
+neg_0844,2024-04-06 07:23:50,Bitcoin mining creating heat islands in areas.,user_72,14274,4675,negative,7,Saturday,46,-1
+neg_0643,2024-04-06 10:07:23,Bitcoin vanity address collision risk underestimated.,user_8,16861,8617,negative,10,Saturday,53,-1
+neg_0580,2024-04-06 10:13:46,Public ledger means permanent financial surveillance.,user_36,9909,1957,negative,10,Saturday,53,-1
+neg_0578,2024-04-06 11:38:43,Law enforcement has blockchain tracking tools now.,user_26,15064,3602,negative,11,Saturday,50,-1
+neg_0722,2024-04-06 18:28:59,Bitcoin energy consumption growing exponentially.,user_6,3979,9773,negative,18,Saturday,49,-1
+neg_0325,2024-04-07 02:09:51,Consensus bugs could halt the network.,user_37,18915,1825,negative,2,Sunday,38,-1
+neg_0442,2024-04-07 08:51:58,Clipboard malware changing addresses during copy-paste.,user_91,10331,7836,negative,8,Sunday,55,-1
+neg_0426,2024-04-07 08:54:01,Energy intensive mining contradicts climate goals.,user_71,10269,2881,negative,8,Sunday,50,-1
+neg_0011,2024-04-07 09:53:06,Bitcoin energy consumption doubled in 12 months.,user_11,5453,9727,negative,9,Sunday,48,-1
+neg_0055,2024-04-07 10:03:04,Quantum computers will break Bitcoin encryption soon.,user_94,6014,5748,negative,10,Sunday,53,-1
+neg_0693,2024-04-07 11:14:25,Proof of Work is outdated. Ethereum already moved on.,user_1,15442,6146,negative,11,Sunday,53,-1
+neg_0590,2024-04-07 12:54:29,Fake wallet apps stealing Bitcoin daily.,user_49,9618,586,negative,12,Sunday,40,-1
+neg_0147,2024-04-07 16:53:22,Miners bribing officials for cheap dirty energy.,user_4,6055,1427,negative,16,Sunday,48,-1
+neg_0902,2024-04-07 22:19:52,Bitcoin bridge hacked for $200M. Security is broken.,user_77,3596,3542,negative,22,Sunday,52,-1
+neg_0931,2024-04-07 22:22:39,Bitcoin inheritance impossible to secure properly.,user_42,14249,2299,negative,22,Sunday,50,-1
+neg_0291,2024-04-08 15:19:12,One transaction uses energy to power homes for weeks.,user_44,15767,1307,negative,15,Monday,53,-1
+neg_0756,2024-04-08 15:47:06,Bitcoin mining e-waste generation accelerating.,user_66,18440,3301,negative,15,Monday,47,-1
+neg_0071,2024-04-08 15:52:26,Your employer can see your Bitcoin transaction history.,user_26,22356,4918,negative,15,Monday,55,-1
+neg_0236,2024-04-08 19:24:12,KYC exchanges sharing data with the IRS. No privacy.,user_31,4846,5308,negative,19,Monday,52,-1
+neg_0997,2024-04-08 23:44:02,Methane flaring for Bitcoin still releases CO2.,user_34,12399,3200,negative,23,Monday,47,-1
+neg_0832,2024-04-09 04:53:32,Proof of Work destroying the planet for digital money.,user_80,15540,9998,negative,4,Tuesday,54,-1
+neg_0939,2024-04-09 06:22:31,Wrench attack risk with Bitcoin. Physical danger.,user_9,1568,8029,negative,6,Tuesday,49,-1
+neg_0194,2024-04-09 08:27:08,Bitcoin vanity address collision risk underestimated.,user_92,23727,6732,negative,8,Tuesday,53,-1
+neg_0270,2024-04-09 16:39:14,Smart contract bugs draining wrapped Bitcoin.,user_73,13406,6544,negative,16,Tuesday,45,-1
+neg_0028,2024-04-09 19:04:54,Proof of Work destroying the planet for digital money.,user_4,12138,6149,negative,19,Tuesday,54,-1
+neg_0672,2024-04-09 21:03:06,Bitcoin mining competing with essential services.,user_5,3906,8214,negative,21,Tuesday,49,-1
+neg_0045,2024-04-10 01:44:42,Blockchain analysis revealing sensitive user patterns.,user_84,2942,5370,negative,1,Wednesday,54,-1
+neg_0360,2024-04-10 02:34:33,Blockchain analysis revealing sensitive user patterns.,user_84,16067,4987,negative,2,Wednesday,54,-1
+neg_0983,2024-04-10 04:29:24,Miners colluding to censor transactions.,user_23,17587,3050,negative,4,Wednesday,40,-1
+neg_0184,2024-04-10 04:53:51,Bitcoin mining banned in countries for energy waste.,user_76,9513,8391,negative,4,Wednesday,52,-1
+neg_0225,2024-04-10 08:15:52,Bitcoin network energy consumption at all-time highs.,user_1,19158,2191,negative,8,Wednesday,53,-1
+neg_0658,2024-04-10 16:26:17,Methane flaring for Bitcoin still releases CO2.,user_68,22291,3550,negative,16,Wednesday,47,-1
+neg_0365,2024-04-10 18:45:56,Bitcoin privacy worse than bank accounts at this point.,user_37,7034,4339,negative,18,Wednesday,55,-1
+neg_0175,2024-04-10 20:51:20,Bitcoin mining noise pollution affecting communities.,user_3,3022,2977,negative,20,Wednesday,53,-1
+neg_0920,2024-04-10 22:13:21,Malware targeting Bitcoin users increasing 400%.,user_19,9836,9289,negative,22,Wednesday,48,-1
+neg_0628,2024-04-11 02:38:40,Bitcoin uses 0.5% of global electricity. Unsustainable.,user_53,8856,5381,negative,2,Thursday,55,-1
+neg_0930,2024-04-11 05:04:17,Bitcoin bridge hacked for $200M. Security is broken.,user_66,16260,6061,negative,5,Thursday,52,-1
+neg_0418,2024-04-11 05:23:52,Tornado Cash banned. Privacy tools are illegal now.,user_69,12938,2711,negative,5,Thursday,51,-1
+neg_0098,2024-04-11 05:36:10,Custodial wallets freezing funds without explanation.,user_47,11736,6867,negative,5,Thursday,53,-1
+neg_0435,2024-04-11 10:45:43,Bitcoin mining draining renewable energy from grid.,user_26,10815,5427,negative,10,Thursday,51,-1
+neg_0543,2024-04-11 17:17:00,IP addresses logged with every transaction. Location tracked.,user_75,12383,1521,negative,17,Thursday,61,-1
+neg_0083,2024-04-11 18:56:40,Bitcoin contributing to global warming crisis.,user_60,18213,7412,negative,18,Thursday,46,-1
+neg_0103,2024-04-11 21:45:57,Smart contract bugs draining wrapped Bitcoin.,user_92,7590,1715,negative,21,Thursday,45,-1
+neg_0362,2024-04-11 21:57:54,Bitcoin leaves a trail forever. Cash was more private.,user_88,6609,745,negative,21,Thursday,54,-1
+neg_0504,2024-04-12 00:12:24,Malware targeting Bitcoin users increasing 400%.,user_92,12299,3080,negative,0,Friday,48,-1
+neg_0267,2024-04-12 02:57:38,Bitcoin mining competing with essential services.,user_65,23266,359,negative,2,Friday,49,-1
+neg_0408,2024-04-12 07:00:35,Privacy features removed from wallets. Regulators won.,user_43,13122,9963,negative,7,Friday,54,-1
+neg_0851,2024-04-12 11:04:58,Proof of Work is waste of computational resources.,user_5,20233,690,negative,11,Friday,50,-1
+neg_0094,2024-04-12 13:17:37,Hardware wallet vulnerability discovered. Funds at risk.,user_81,21610,7854,negative,13,Friday,56,-1
+neg_0463,2024-04-12 15:22:34,Blockchain analysis revealing sensitive user patterns.,user_31,4223,6456,negative,15,Friday,54,-1
+neg_0501,2024-04-12 16:04:48,Fake Bitcoin investment schemes stealing billions.,user_54,17044,9468,negative,16,Friday,50,-1
+neg_0982,2024-04-12 20:53:03,Blockchain analysis revealing sensitive user patterns.,user_7,5022,8637,negative,20,Friday,54,-1
+neg_0308,2024-04-12 21:03:42,Ransomware demanding Bitcoin. Fueling criminals.,user_49,15297,2886,negative,21,Friday,48,-1
+neg_0890,2024-04-12 21:09:50,E-waste from mining rigs piling up in landfills.,user_67,22094,4474,negative,21,Friday,48,-1
+neg_0105,2024-04-12 22:22:11,Public ledger means public finances. Worse than cash.,user_48,22581,9161,negative,22,Friday,53,-1
+neg_0429,2024-04-12 23:53:39,Tornado Cash banned. Privacy tools are illegal now.,user_17,13519,3166,negative,23,Friday,51,-1
+neg_0589,2024-04-13 20:43:47,Consensus bugs could halt the network.,user_16,15245,3175,negative,20,Saturday,38,-1
+neg_0829,2024-04-14 04:37:16,Proof of Work destroying the planet for digital money.,user_93,3197,4841,negative,4,Sunday,54,-1
+neg_0635,2024-04-14 06:32:07,Bitcoin leaves a trail forever. Cash was more private.,user_57,19950,5804,negative,6,Sunday,54,-1
+neg_0421,2024-04-14 10:52:57,Dust attacks tracking Bitcoin user behavior.,user_50,12898,6227,negative,10,Sunday,44,-1
+neg_0033,2024-04-14 12:10:05,Bitcoin mining damaging pristine environmental areas.,user_40,8095,8573,negative,12,Sunday,53,-1
+neg_0796,2024-04-14 17:21:25,Another major exchange hacked. Funds stolen.,user_19,19206,4491,negative,17,Sunday,44,-1
+neg_0970,2024-04-14 20:44:58,Bitcoin mining competing with essential services.,user_20,20656,9552,negative,20,Sunday,49,-1
+neg_0812,2024-04-15 07:14:57,One transaction uses energy to power homes for weeks.,user_2,22978,4792,negative,7,Monday,53,-1
+neg_0218,2024-04-15 11:19:32,Custodial wallets freezing funds without explanation.,user_82,15746,319,negative,11,Monday,53,-1
+neg_0244,2024-04-15 12:01:52,Crypto mining farms abandoned when energy costs rise.,user_19,15393,9613,negative,12,Monday,53,-1
+neg_0181,2024-04-15 17:03:15,SIM swap attacks emptying wallets in minutes.,user_7,9682,6006,negative,17,Monday,45,-1
+neg_0729,2024-04-15 18:06:10,Bitcoin escrow scams increasing. No protection.,user_9,6604,7471,negative,18,Monday,47,-1
+neg_0469,2024-04-15 18:56:22,Custodial wallets freezing funds without explanation.,user_80,3043,8153,negative,18,Monday,53,-1
+neg_0826,2024-04-16 01:56:49,Bitcoin contributing to global warming crisis.,user_79,3751,997,negative,1,Tuesday,46,-1
+neg_0659,2024-04-16 03:06:31,Proof of Work is waste of computational resources.,user_56,7759,4064,negative,3,Tuesday,50,-1
+neg_0158,2024-04-16 08:13:32,Bitcoin vanity address collision risk underestimated.,user_94,19380,2402,negative,8,Tuesday,53,-1
+neg_0467,2024-04-16 16:36:13,Bitcoin uses 0.5% of global electricity. Unsustainable.,user_14,5624,679,negative,16,Tuesday,55,-1
+neg_0764,2024-04-16 20:30:32,Fake hardware wallets sold on Amazon with backdoors.,user_96,17804,360,negative,20,Tuesday,52,-1
+neg_0350,2024-04-17 00:10:48,Bitcoin mining banned in countries for energy waste.,user_7,21800,7548,negative,0,Wednesday,52,-1
+neg_0763,2024-04-17 01:04:12,One transaction equals one month household electricity.,user_2,3914,7564,negative,1,Wednesday,55,-1
+neg_0379,2024-04-17 01:08:47,Bitcoin privacy worse than bank accounts at this point.,user_89,2369,2070,negative,1,Wednesday,55,-1
+neg_0949,2024-04-17 02:00:11,Methane flaring for Bitcoin still releases CO2.,user_38,21141,9568,negative,2,Wednesday,47,-1
+neg_0315,2024-04-17 05:07:07,Fake Bitcoin investment schemes stealing billions.,user_90,22103,6848,negative,5,Wednesday,50,-1
+neg_0905,2024-04-17 06:26:59,Proof of Work is waste of computational resources.,user_10,11945,9873,negative,6,Wednesday,50,-1
+neg_0235,2024-04-17 06:52:02,Bitcoin mining using natural gas flaring. Disaster.,user_72,2872,9063,negative,6,Wednesday,51,-1
+neg_0888,2024-04-17 11:06:15,Hardware wallet vulnerability discovered. Funds at risk.,user_75,6160,2953,negative,11,Wednesday,56,-1
+neg_0079,2024-04-17 17:05:17,Miners relocating to coal regions. Emissions spiking.,user_3,9517,4832,negative,17,Wednesday,53,-1
+neg_0618,2024-04-17 18:29:52,Bitcoin uses 0.5% of global electricity. Unsustainable.,user_42,15609,8540,negative,18,Wednesday,55,-1
+neg_0340,2024-04-17 19:13:13,Bitcoin has no solution without changing consensus.,user_79,10876,3800,negative,19,Wednesday,51,-1
+neg_0808,2024-04-17 21:08:41,E-waste from mining rigs piling up in landfills.,user_7,3751,6842,negative,21,Wednesday,48,-1
+neg_0705,2024-04-17 21:19:31,Bitcoin energy consumption growing exponentially.,user_76,8504,2817,negative,21,Wednesday,49,-1
+neg_0564,2024-04-18 01:26:27,Multisig wallets hacked. Not as secure as promised.,user_90,14818,736,negative,1,Thursday,51,-1
+neg_0799,2024-04-18 11:42:04,Bitcoin energy consumption doubled in 12 months.,user_92,15092,1456,negative,11,Thursday,48,-1
+neg_0971,2024-04-18 13:06:32,Bitcoin core bug could allow double spending. Urgent.,user_61,10710,7315,negative,13,Thursday,53,-1
+neg_0309,2024-04-18 16:54:18,Bitcoin has no solution without changing consensus.,user_78,13726,621,negative,16,Thursday,51,-1
+neg_0470,2024-04-18 19:06:57,Bitcoin escrow scams increasing. No protection.,user_49,12177,372,negative,19,Thursday,47,-1
+neg_0638,2024-04-18 20:51:06,Fake wallet apps stealing Bitcoin daily.,user_24,15711,8222,negative,20,Thursday,40,-1
+neg_0070,2024-04-18 21:44:40,E-waste from mining rigs piling up in landfills.,user_19,21462,7355,negative,21,Thursday,48,-1
+neg_0585,2024-04-18 22:57:41,Your Bitcoin privacy depends on everyone else. Broken.,user_57,7845,1581,negative,22,Thursday,54,-1
+neg_0148,2024-04-18 23:13:42,Transparent blockchain equals transparent wallet balances.,user_4,10175,8919,negative,23,Thursday,58,-1
+neg_0382,2024-04-19 02:21:23,Bitcoin energy consumption growing exponentially.,user_85,20115,6015,negative,2,Friday,49,-1
+neg_0436,2024-04-19 14:28:53,Bitcoin mining draining renewable energy from grid.,user_43,12330,4089,negative,14,Friday,51,-1
+neg_0755,2024-04-19 15:28:51,Bitcoin mining using natural gas flaring. Disaster.,user_68,13389,9287,negative,15,Friday,51,-1
+neg_0750,2024-04-19 17:02:13,Bitcoin vanity address collision risk underestimated.,user_42,20842,8465,negative,17,Friday,53,-1
+neg_0707,2024-04-20 06:50:38,Bitcoin mining uses more electricity than countries.,user_30,4382,9894,negative,6,Saturday,52,-1
+neg_0725,2024-04-20 07:24:37,Proof of Work destroying the planet for digital money.,user_29,1729,8935,negative,7,Saturday,54,-1
+neg_0715,2024-04-20 12:21:08,Bitcoin core bug could allow double spending. Urgent.,user_37,20346,7022,negative,12,Saturday,53,-1
+neg_0227,2024-04-20 16:09:03,Privacy coins getting delisted everywhere. Bitcoin next.,user_57,16821,2821,negative,16,Saturday,56,-1
+neg_0101,2024-04-20 16:28:57,Privacy coins getting delisted everywhere. Bitcoin next.,user_67,18382,7527,negative,16,Saturday,56,-1
+neg_0879,2024-04-21 07:02:55,Bitcoin scripts with hidden vulnerabilities.,user_44,14874,9720,negative,7,Sunday,44,-1
+neg_0650,2024-04-21 09:34:36,Bitcoin ATMs require ID now. Anonymous purchases over.,user_14,22986,4930,negative,9,Sunday,54,-1
+neg_0307,2024-04-21 09:37:32,IP addresses logged with every transaction. Location tracked.,user_85,21956,5777,negative,9,Sunday,61,-1
+neg_0423,2024-04-21 09:40:19,Bitcoin mining operations causing grid strain.,user_91,8375,4780,negative,9,Sunday,46,-1
+neg_0473,2024-04-21 20:13:06,Cooling systems for miners wasting massive water.,user_11,1605,7254,negative,20,Sunday,49,-1
+neg_0239,2024-04-21 20:15:46,Bitcoin energy consumption doubled in 12 months.,user_92,8887,727,negative,20,Sunday,48,-1
+neg_0991,2024-04-21 21:24:03,Time-locked transactions exposing future plans.,user_30,7547,6786,negative,21,Sunday,47,-1
+neg_0542,2024-04-22 01:29:26,Proof of Work is waste of computational resources.,user_1,13116,1202,negative,1,Monday,50,-1
+neg_0515,2024-04-22 08:45:44,Bitcoin carbon footprint equivalent to New Zealand.,user_37,12225,5942,negative,8,Monday,51,-1
+neg_0141,2024-04-22 13:50:49,Bitcoin mining operations abandoned leaving toxic waste.,user_36,10944,2972,negative,13,Monday,56,-1
+neg_0251,2024-04-22 15:43:10,Time-locked transactions exposing future plans.,user_48,21395,1610,negative,15,Monday,47,-1
+neg_0648,2024-04-22 17:53:15,Fake Bitcoin investment schemes stealing billions.,user_66,2892,3407,negative,17,Monday,50,-1
+neg_0761,2024-04-22 19:12:12,Bitcoin DNS attacks redirecting transactions.,user_1,13431,9406,negative,19,Monday,45,-1
+neg_0582,2024-04-22 21:59:13,Malware targeting Bitcoin users increasing 400%.,user_32,3536,7468,negative,21,Monday,48,-1
+neg_0668,2024-04-23 02:48:43,Energy intensive mining contradicts climate goals.,user_87,6626,2939,negative,2,Tuesday,50,-1
+neg_0784,2024-04-23 02:52:59,Bitcoin carbon footprint equivalent to New Zealand.,user_35,14387,3551,negative,2,Tuesday,51,-1
+neg_0918,2024-04-23 07:03:09,Bitcoin uses 0.5% of global electricity. Unsustainable.,user_51,18517,9324,negative,7,Tuesday,55,-1
+neg_0786,2024-04-23 09:07:40,E-waste from mining rigs piling up in landfills.,user_15,12321,7364,negative,9,Tuesday,48,-1
+neg_0924,2024-04-23 10:00:20,Proof of Work is waste of computational resources.,user_61,15301,2613,negative,10,Tuesday,50,-1
+neg_0454,2024-04-23 15:08:31,Blockchain analysis revealing sensitive user patterns.,user_72,20080,1479,negative,15,Tuesday,54,-1
+neg_0372,2024-04-24 04:25:38,Bitcoin DNS attacks redirecting transactions.,user_87,15065,7463,negative,4,Wednesday,45,-1
+neg_0670,2024-04-24 07:43:23,Bitcoin lightning network vulnerabilities discovered.,user_97,13199,4098,negative,7,Wednesday,53,-1
+neg_0208,2024-04-24 12:03:17,IP addresses logged with every transaction. Location tracked.,user_86,10180,1030,negative,12,Wednesday,61,-1
+neg_0624,2024-04-24 14:09:49,SIM swap attacks emptying wallets in minutes.,user_83,11113,6528,negative,14,Wednesday,45,-1
+neg_0605,2024-04-24 14:36:11,Bitcoin carbon footprint equivalent to New Zealand.,user_90,9762,6523,negative,14,Wednesday,51,-1
+neg_0394,2024-04-24 18:05:49,Bitcoin leaves a trail forever. Cash was more private.,user_59,9911,1001,negative,18,Wednesday,54,-1
+neg_0935,2024-04-24 18:50:56,Coal-powered mining operations polluting heavily.,user_59,13112,4001,negative,18,Wednesday,49,-1
+neg_0174,2024-04-24 19:35:21,SIM swap attacks emptying wallets in minutes.,user_82,24355,8367,negative,19,Wednesday,45,-1
+neg_0054,2024-04-24 20:57:48,Bitcoin uses 0.5% of global electricity. Unsustainable.,user_12,6807,5542,negative,20,Wednesday,55,-1
+neg_0941,2024-04-24 22:36:59,Bitcoin inheritance impossible to secure properly.,user_27,18391,6172,negative,22,Wednesday,50,-1
+neg_0162,2024-04-25 00:41:23,Ledger database leaked. Users exposed to attacks.,user_62,9984,7373,negative,0,Thursday,49,-1
+neg_0788,2024-04-25 06:55:47,51% attack risk is real and growing.,user_68,2607,6450,negative,6,Thursday,36,-1
+neg_0560,2024-04-25 07:33:25,KYC exchanges sharing data with the IRS. No privacy.,user_76,11758,1184,negative,7,Thursday,52,-1
+neg_0857,2024-04-25 09:54:27,Chain analysis companies can track every satoshi you own.,user_26,19201,9029,negative,9,Thursday,57,-1
+neg_0545,2024-04-25 10:53:28,Quantum computers will break Bitcoin encryption soon.,user_76,4900,9714,negative,10,Thursday,53,-1
+neg_0277,2024-04-25 12:14:16,Mixing services banned. No privacy on Bitcoin anymore.,user_4,7070,5211,negative,12,Thursday,54,-1
+neg_0897,2024-04-25 15:35:09,Bitcoin mining using natural gas flaring. Disaster.,user_68,7604,385,negative,15,Thursday,51,-1
+neg_0144,2024-04-25 15:58:18,Crypto mining farms abandoned when energy costs rise.,user_69,17128,1263,negative,15,Thursday,53,-1
+neg_0787,2024-04-25 15:58:25,Wallet providers cooperating with surveillance agencies.,user_58,14106,1514,negative,15,Thursday,56,-1
+neg_0180,2024-04-25 17:27:48,Fake wallet apps stealing Bitcoin daily.,user_28,7031,3430,negative,17,Thursday,40,-1
+neg_0406,2024-04-26 02:57:43,Bitcoin DNS attacks redirecting transactions.,user_51,7752,9189,negative,2,Friday,45,-1
+neg_0051,2024-04-26 03:40:14,Malware targeting Bitcoin users increasing 400%.,user_27,8032,2224,negative,3,Friday,48,-1
+neg_0620,2024-04-26 08:53:13,Bitcoin miners fleeing regulations to pollute elsewhere.,user_76,5138,9351,negative,8,Friday,56,-1
+neg_0262,2024-04-26 08:53:43,Public ledger means permanent financial surveillance.,user_17,5167,1271,negative,8,Friday,53,-1
+neg_0320,2024-04-26 13:50:06,Exchange data breaches exposing millions of users.,user_33,15474,3046,negative,13,Friday,50,-1
+neg_0352,2024-04-26 17:34:17,Ransomware demanding Bitcoin. Fueling criminals.,user_52,23637,8357,negative,17,Friday,48,-1
+neg_0915,2024-04-26 22:55:21,Bitcoin escrow scams increasing. No protection.,user_80,21667,3607,negative,22,Friday,47,-1
+neg_0210,2024-04-27 04:29:49,Bitcoin escrow scams increasing. No protection.,user_81,19047,9877,negative,4,Saturday,47,-1
+neg_0702,2024-04-27 05:25:41,Bitcoin network energy consumption at all-time highs.,user_26,9058,8479,negative,5,Saturday,53,-1
+neg_0173,2024-04-27 09:50:20,Bitcoin ATMs require ID now. Anonymous purchases over.,user_14,11445,2686,negative,9,Saturday,54,-1
+neg_0513,2024-04-27 17:17:00,Social engineering attacks bypassing all security.,user_72,4274,3272,negative,17,Saturday,50,-1
+neg_0617,2024-04-28 02:20:12,E-waste from mining rigs piling up in landfills.,user_13,17932,1161,negative,2,Sunday,48,-1
+neg_0652,2024-04-28 09:42:38,Bitcoin leaves a trail forever. Cash was more private.,user_9,3813,691,negative,9,Sunday,54,-1
+neg_0461,2024-04-28 09:43:57,Cold storage compromised. Nothing is truly safe.,user_55,12076,2891,negative,9,Sunday,48,-1
+neg_0569,2024-04-28 11:53:30,Bitcoin mining operations abandoned leaving toxic waste.,user_8,24855,7333,negative,11,Sunday,56,-1
+neg_0250,2024-04-28 18:09:12,Hardware wallet vulnerability discovered. Funds at risk.,user_33,13923,595,negative,18,Sunday,56,-1
+neg_0477,2024-04-28 23:22:08,Bitcoin DNS attacks redirecting transactions.,user_34,15708,452,negative,23,Sunday,45,-1
+neg_0877,2024-04-29 01:59:16,Bitcoin energy problem worse than initial estimates.,user_10,13473,2813,negative,1,Monday,52,-1
+neg_0065,2024-04-29 07:05:08,Energy for Bitcoin could power hospitals instead.,user_61,4236,2850,negative,7,Monday,49,-1
+neg_0260,2024-04-29 16:52:10,Another major exchange hacked. Funds stolen.,user_80,2652,6993,negative,16,Monday,44,-1
+neg_0333,2024-04-29 21:30:40,Bitcoin vanity address collision risk underestimated.,user_22,13150,6122,negative,21,Monday,53,-1
+neg_0921,2024-04-30 15:28:06,51% attack risk is real and growing.,user_58,4520,7423,negative,15,Tuesday,36,-1
+neg_0261,2024-04-30 16:56:25,Bitcoin using more energy than renewables produce.,user_57,7659,9217,negative,16,Tuesday,50,-1
+neg_0858,2024-04-30 17:03:06,Bitcoin leaves a trail forever. Cash was more private.,user_6,23011,9652,negative,17,Tuesday,54,-1
+neg_0568,2024-04-30 21:20:25,Bitcoin vanity address collision risk underestimated.,user_33,3705,7644,negative,21,Tuesday,53,-1
+neg_0154,2024-04-30 23:47:58,Bitcoin ATMs require ID now. Anonymous purchases over.,user_31,15567,6283,negative,23,Tuesday,54,-1
+neg_0330,2024-05-01 14:09:35,Cooling systems for miners wasting massive water.,user_11,17432,8430,negative,14,Wednesday,49,-1
+neg_0428,2024-05-01 16:51:53,Bitcoin ATMs require ID now. Anonymous purchases over.,user_33,8548,6559,negative,16,Wednesday,54,-1
+neg_0854,2024-05-01 17:13:48,Chain analysis companies can track every satoshi you own.,user_14,9658,642,negative,17,Wednesday,57,-1
+neg_0523,2024-05-01 19:46:33,Bitcoin mining creating heat islands in areas.,user_72,4930,2524,negative,19,Wednesday,46,-1
+neg_0714,2024-05-02 00:39:22,51% attack risk is real and growing.,user_51,24982,9777,negative,0,Thursday,36,-1
+neg_0843,2024-05-02 02:01:38,Wrench attack risk with Bitcoin. Physical danger.,user_11,2763,1781,negative,2,Thursday,49,-1
+neg_0912,2024-05-02 05:46:52,Bitcoin mining creating heat islands in areas.,user_83,23677,1210,negative,5,Thursday,46,-1
+neg_0757,2024-05-02 07:20:17,Bitcoin core bug could allow double spending. Urgent.,user_72,4725,3071,negative,7,Thursday,53,-1
+neg_0625,2024-05-02 11:56:37,Bitcoin mining operations abandoned leaving toxic waste.,user_9,20979,3197,negative,11,Thursday,56,-1
+neg_0494,2024-05-02 18:53:06,Coal-powered mining operations polluting heavily.,user_76,4515,9947,negative,18,Thursday,49,-1
+neg_0551,2024-05-03 04:48:48,Bitcoin mining e-waste generation accelerating.,user_89,10966,5164,negative,4,Friday,47,-1
+neg_0050,2024-05-03 06:13:08,E-waste from mining rigs piling up in landfills.,user_8,5501,4990,negative,6,Friday,48,-1
+neg_0517,2024-05-03 06:57:30,Transparent blockchain equals transparent wallet balances.,user_81,4421,2252,negative,6,Friday,58,-1
+neg_0042,2024-05-03 11:36:11,Energy for Bitcoin could power hospitals instead.,user_6,20268,9005,negative,11,Friday,49,-1
+neg_0820,2024-05-03 12:58:45,Every node can see your transaction. Total surveillance.,user_61,11795,6518,negative,12,Friday,56,-1
+neg_0554,2024-05-03 15:44:39,Time-locked transactions exposing future plans.,user_31,20330,3245,negative,15,Friday,47,-1
+neg_0452,2024-05-03 19:00:42,Bitcoin nodes under DDoS attack daily.,user_76,8608,5100,negative,19,Friday,38,-1
+neg_0185,2024-05-03 20:44:09,Multisig wallets hacked. Not as secure as promised.,user_79,22724,1369,negative,20,Friday,51,-1
+neg_0238,2024-05-04 01:21:26,Social engineering attacks bypassing all security.,user_17,10401,2753,negative,1,Saturday,50,-1
+neg_0284,2024-05-04 02:03:33,ASIC miners obsolete in 2 years. E-waste mountains.,user_68,7401,8645,negative,2,Saturday,51,-1
+neg_0121,2024-05-04 02:53:03,Fake wallet apps stealing Bitcoin daily.,user_62,3085,9869,negative,2,Saturday,40,-1
+neg_0176,2024-05-04 07:41:38,Bitcoin mining creating heat islands in areas.,user_98,14685,4874,negative,7,Saturday,46,-1
+neg_0980,2024-05-04 10:54:42,Every node can see your transaction. Total surveillance.,user_76,16176,1687,negative,10,Saturday,56,-1
+neg_0636,2024-05-04 11:01:57,Every Bitcoin transaction is permanently tracked. Privacy is dead.,user_63,8859,8463,negative,11,Saturday,66,-1
+neg_0444,2024-05-04 11:01:59,Proof of Work is waste of computational resources.,user_77,20655,3626,negative,11,Saturday,50,-1
+neg_0527,2024-05-04 14:08:19,Bitcoin mining draining renewable energy from grid.,user_18,11947,9996,negative,14,Saturday,51,-1
+neg_0201,2024-05-04 15:05:39,Phishing attacks stealing Bitcoin daily. No protection.,user_43,8495,2931,negative,15,Saturday,55,-1
+neg_0188,2024-05-04 21:50:47,Clipboard malware changing addresses during copy-paste.,user_13,20574,4224,negative,21,Saturday,55,-1
+neg_0386,2024-05-05 01:33:12,Hardware wallet vulnerability discovered. Funds at risk.,user_4,7729,6739,negative,1,Sunday,56,-1
+neg_0823,2024-05-05 06:38:20,Bitcoin using more energy than renewables produce.,user_29,13740,9654,negative,6,Sunday,50,-1
+neg_0887,2024-05-05 12:15:36,Privacy coins getting delisted everywhere. Bitcoin next.,user_56,12114,2502,negative,12,Sunday,56,-1
+neg_0353,2024-05-05 23:57:41,Another major exchange hacked. Funds stolen.,user_51,7288,3184,negative,23,Sunday,44,-1
+neg_0281,2024-05-06 03:05:01,Bitcoin DNS attacks redirecting transactions.,user_18,20072,1272,negative,3,Monday,45,-1
+neg_0030,2024-05-06 09:26:31,Every Bitcoin transaction is permanently tracked. Privacy is dead.,user_83,8636,1581,negative,9,Monday,66,-1
+neg_0209,2024-05-06 17:11:51,Bitcoin phishing emails getting more sophisticated.,user_69,16590,4567,negative,17,Monday,51,-1
+neg_0480,2024-05-06 20:36:56,Your Bitcoin privacy depends on everyone else. Broken.,user_51,8866,6846,negative,20,Monday,54,-1
+neg_0600,2024-05-06 23:19:56,Miners bribing officials for cheap dirty energy.,user_85,16415,4286,negative,23,Monday,48,-1
+neg_0703,2024-05-07 02:29:15,Bitcoin mining operations causing grid strain.,user_66,11708,454,negative,2,Tuesday,46,-1
+neg_0074,2024-05-07 08:04:38,51% attack risk is real and growing.,user_46,7916,2634,negative,8,Tuesday,36,-1
+neg_0081,2024-05-07 13:07:30,IP addresses logged with every transaction. Location tracked.,user_79,19305,1434,negative,13,Tuesday,61,-1
+neg_0863,2024-05-07 19:06:31,Bitcoin mining banned in countries for energy waste.,user_99,24083,8414,negative,19,Tuesday,52,-1
+neg_0967,2024-05-08 08:41:26,KYC exchanges sharing data with the IRS. No privacy.,user_1,15944,1113,negative,8,Wednesday,52,-1
+neg_0704,2024-05-08 09:30:38,Bitcoin bridge hacked for $200M. Security is broken.,user_45,20935,8471,negative,9,Wednesday,52,-1
+neg_0709,2024-05-08 11:44:24,Fake Bitcoin investment schemes stealing billions.,user_98,14620,4096,negative,11,Wednesday,50,-1
+neg_0859,2024-05-08 13:57:49,Multisig wallets hacked. Not as secure as promised.,user_81,10214,5234,negative,13,Wednesday,51,-1
+neg_0522,2024-05-08 15:30:55,IP addresses logged with every transaction. Location tracked.,user_40,16946,5424,negative,15,Wednesday,61,-1
+neg_0666,2024-05-08 16:22:54,Public ledger means public finances. Worse than cash.,user_57,19300,6442,negative,16,Wednesday,53,-1
+neg_0962,2024-05-09 05:48:58,Ledger database leaked. Users exposed to attacks.,user_62,23309,8836,negative,5,Thursday,49,-1
+neg_0629,2024-05-09 10:49:07,Zero-day exploit in popular wallet software.,user_95,4295,5112,negative,10,Thursday,44,-1
+neg_0131,2024-05-09 11:32:04,Quantum computers will break Bitcoin encryption soon.,user_6,19983,8161,negative,11,Thursday,53,-1
+neg_0472,2024-05-09 15:07:12,Bitcoin bridge hacked for $200M. Security is broken.,user_29,21148,2989,negative,15,Thursday,52,-1
+neg_0584,2024-05-10 00:25:28,Bitcoin phishing emails getting more sophisticated.,user_50,24936,9758,negative,0,Friday,51,-1
+neg_0348,2024-05-10 06:00:15,Crypto mining farms abandoned when energy costs rise.,user_21,20162,1540,negative,6,Friday,53,-1
+neg_0697,2024-05-10 07:30:28,Your employer can see your Bitcoin transaction history.,user_48,13069,2927,negative,7,Friday,55,-1
+neg_0304,2024-05-10 10:06:52,Chain analysis companies can track every satoshi you own.,user_46,17100,9617,negative,10,Friday,57,-1
+neg_0530,2024-05-10 11:55:50,Bitcoin energy problem worse than initial estimates.,user_91,2013,7449,negative,11,Friday,52,-1
+neg_0860,2024-05-10 19:48:33,Bitcoin contributing to global warming crisis.,user_94,23279,7345,negative,19,Friday,46,-1
+neg_0268,2024-05-10 22:52:05,Miners relocating to coal regions. Emissions spiking.,user_98,5075,567,negative,22,Friday,53,-1
+neg_0040,2024-05-10 23:08:12,Bitcoin inheritance impossible to secure properly.,user_41,23597,9325,negative,23,Friday,50,-1
+neg_0279,2024-05-11 01:07:30,Exchange hot wallets drained while users sleep.,user_38,7355,2283,negative,1,Saturday,47,-1
+neg_0532,2024-05-11 02:36:09,Smart contract bugs draining wrapped Bitcoin.,user_70,19956,3020,negative,2,Saturday,45,-1
+neg_0792,2024-05-11 03:47:12,Tornado Cash banned. Privacy tools are illegal now.,user_2,5731,3266,negative,3,Saturday,51,-1
+neg_0093,2024-05-11 05:53:19,Bitcoin vanity address collision risk underestimated.,user_28,20839,4930,negative,5,Saturday,53,-1
+neg_0466,2024-05-11 06:11:31,Smart contract bugs draining wrapped Bitcoin.,user_25,20127,7372,negative,6,Saturday,45,-1
+neg_0019,2024-05-11 06:40:16,Bitcoin mining uses more electricity than countries.,user_40,4753,787,negative,6,Saturday,52,-1
+neg_0253,2024-05-11 08:55:25,Miners relocating to coal regions. Emissions spiking.,user_11,4056,4081,negative,8,Saturday,53,-1
+neg_0178,2024-05-11 10:56:38,Consensus bugs could halt the network.,user_54,8572,5942,negative,10,Saturday,38,-1
+neg_0339,2024-05-11 13:21:03,Consensus bugs could halt the network.,user_77,14871,7528,negative,13,Saturday,38,-1
+neg_0323,2024-05-11 19:00:18,Carbon credits from miners are fraudulent.,user_40,6987,1808,negative,19,Saturday,42,-1
+neg_0458,2024-05-11 21:02:01,Bitcoin mining operations abandoned leaving toxic waste.,user_64,23881,2267,negative,21,Saturday,56,-1
+neg_0975,2024-05-11 23:12:47,Methane flaring for Bitcoin still releases CO2.,user_18,17202,829,negative,23,Saturday,47,-1
+neg_0958,2024-05-12 12:49:22,Bitcoin energy consumption growing exponentially.,user_58,22795,8220,negative,12,Sunday,49,-1
+neg_0332,2024-05-12 13:55:18,Law enforcement has blockchain tracking tools now.,user_18,14101,1509,negative,13,Sunday,50,-1
+neg_0567,2024-05-12 15:21:47,Privacy coins getting delisted everywhere. Bitcoin next.,user_22,11720,3522,negative,15,Sunday,56,-1
+neg_0020,2024-05-12 18:30:27,Social engineering attacks bypassing all security.,user_35,9446,4447,negative,18,Sunday,50,-1
+neg_0512,2024-05-12 19:32:16,Miners colluding to censor transactions.,user_27,6290,4061,negative,19,Sunday,40,-1
+neg_0310,2024-05-12 23:03:36,Privacy features removed from wallets. Regulators won.,user_67,13571,9706,negative,23,Sunday,54,-1
+neg_0793,2024-05-12 23:07:39,Social engineering attacks bypassing all security.,user_65,22361,3685,negative,23,Sunday,50,-1
+neg_0779,2024-05-13 02:27:11,Multisig wallets hacked. Not as secure as promised.,user_72,20321,6126,negative,2,Monday,51,-1
+neg_0896,2024-05-13 05:32:10,Bitcoin carbon footprint equivalent to New Zealand.,user_8,3783,4842,negative,5,Monday,51,-1
+neg_0200,2024-05-13 07:07:38,Bitcoin transaction malleability still a security risk.,user_73,18396,3897,negative,7,Monday,55,-1
+neg_0182,2024-05-13 10:31:40,Bitcoin leaves a trail forever. Cash was more private.,user_93,1879,4308,negative,10,Monday,54,-1
+neg_0675,2024-05-13 13:07:26,Renewable Bitcoin mining is a myth. Fossil fuels.,user_80,12765,7243,negative,13,Monday,49,-1
+neg_0495,2024-05-13 21:21:56,Dust attacks tracking Bitcoin user behavior.,user_93,9609,1401,negative,21,Monday,44,-1
+neg_0508,2024-05-13 22:51:56,Public ledger means permanent financial surveillance.,user_68,13814,5858,negative,22,Monday,53,-1
+neg_0978,2024-05-13 23:37:26,Carbon credits from miners are fraudulent.,user_76,21080,4848,negative,23,Monday,42,-1
+neg_0075,2024-05-14 04:03:30,Proof of Work is waste of computational resources.,user_37,23039,7742,negative,4,Tuesday,50,-1
+neg_0464,2024-05-14 05:16:06,Bitcoin network energy consumption at all-time highs.,user_6,18078,2526,negative,5,Tuesday,53,-1
+neg_0745,2024-05-14 05:31:22,Another major exchange hacked. Funds stolen.,user_30,21936,1805,negative,5,Tuesday,44,-1
+neg_0966,2024-05-14 08:45:25,Social engineering attacks bypassing all security.,user_34,16115,4690,negative,8,Tuesday,50,-1
+neg_0751,2024-05-14 08:49:26,Bitcoin mining noise pollution affecting communities.,user_9,3824,3478,negative,8,Tuesday,53,-1
+neg_0390,2024-05-14 15:22:44,Zero-day exploit in popular wallet software.,user_89,3817,2543,negative,15,Tuesday,44,-1
+neg_0080,2024-05-14 16:30:40,One transaction equals one month household electricity.,user_24,3035,8089,negative,16,Tuesday,55,-1
+neg_0647,2024-05-14 18:32:30,Bitcoin mining incentivizing fossil fuel use.,user_86,17947,3947,negative,18,Tuesday,45,-1
+neg_0950,2024-05-14 20:38:01,Bitcoin uses 0.5% of global electricity. Unsustainable.,user_98,18581,5737,negative,20,Tuesday,55,-1
+neg_0228,2024-05-15 02:12:33,Bitcoin mining draining renewable energy from grid.,user_96,16373,4013,negative,2,Wednesday,51,-1
+neg_0948,2024-05-15 03:25:52,Bitcoin mining draining renewable energy from grid.,user_6,13420,4679,negative,3,Wednesday,51,-1
+neg_0730,2024-05-15 03:48:39,Bitcoin leaves a trail forever. Cash was more private.,user_82,10058,836,negative,3,Wednesday,54,-1
+neg_0483,2024-05-15 09:44:26,Bitcoin has no solution without changing consensus.,user_56,15342,3817,negative,9,Wednesday,51,-1
+neg_0096,2024-05-15 14:28:53,KYC exchanges sharing data with the IRS. No privacy.,user_28,24517,4352,negative,14,Wednesday,52,-1
+neg_0195,2024-05-15 18:47:05,Bitcoin vanity address collision risk underestimated.,user_44,10103,5036,negative,18,Wednesday,53,-1
+neg_0516,2024-05-15 20:57:19,Bitcoin transaction malleability still a security risk.,user_6,8945,5558,negative,20,Wednesday,55,-1
+neg_0835,2024-05-15 21:53:04,Bitcoin vanity address collision risk underestimated.,user_42,5921,1948,negative,21,Wednesday,53,-1
+neg_0524,2024-05-15 22:05:18,Tornado Cash banned. Privacy tools are illegal now.,user_44,16214,1093,negative,22,Wednesday,51,-1
+neg_0571,2024-05-15 22:23:29,Bitcoin ATMs require ID now. Anonymous purchases over.,user_77,7006,2202,negative,22,Wednesday,54,-1
+neg_0837,2024-05-16 00:29:55,Bitcoin hashrate increase equals more energy waste.,user_34,22130,5826,negative,0,Thursday,51,-1
+neg_0974,2024-05-16 05:14:16,Proof of Work is outdated. Ethereum already moved on.,user_32,21228,6921,negative,5,Thursday,53,-1
+neg_0171,2024-05-16 05:27:53,Bitcoin network energy consumption at all-time highs.,user_90,13662,8268,negative,5,Thursday,53,-1
+neg_0102,2024-05-16 06:08:52,Fake hardware wallets sold on Amazon with backdoors.,user_18,6109,6680,negative,6,Thursday,52,-1
+neg_0393,2024-05-16 10:33:09,Blockchain transparency means government sees everything you buy.,user_98,6338,7710,negative,10,Thursday,65,-1
+neg_0667,2024-05-16 12:25:07,Bitcoin DNS attacks redirecting transactions.,user_52,15488,4355,negative,12,Thursday,45,-1
+neg_0322,2024-05-17 05:17:36,Mixing services banned. No privacy on Bitcoin anymore.,user_67,10481,1318,negative,5,Friday,54,-1
+neg_0909,2024-05-17 08:37:28,Cold storage compromised. Nothing is truly safe.,user_54,2293,2072,negative,8,Friday,48,-1
+neg_0695,2024-05-17 16:14:21,Blockchain analysis revealing sensitive user patterns.,user_99,4959,2272,negative,16,Friday,54,-1
+neg_0448,2024-05-17 20:19:02,Fake hardware wallets sold on Amazon with backdoors.,user_28,14118,831,negative,20,Friday,52,-1
+neg_0900,2024-05-17 21:39:20,Bitcoin held by exchanges not backed 1:1. Fractional.,user_19,9988,6075,negative,21,Friday,53,-1
+neg_0536,2024-05-18 01:31:48,Bitcoin mining noise pollution affecting communities.,user_48,12397,1933,negative,1,Saturday,53,-1
+neg_0004,2024-05-18 01:37:01,Proof of Work is waste of computational resources.,user_12,18814,7515,negative,1,Saturday,50,-1
+neg_0223,2024-05-18 04:34:41,Bitcoin leaves a trail forever. Cash was more private.,user_55,18072,435,negative,4,Saturday,54,-1
+neg_0789,2024-05-18 07:15:21,Public ledger means public finances. Worse than cash.,user_97,9780,2844,negative,7,Saturday,53,-1
+neg_0313,2024-05-18 13:55:26,Chain analysis companies can track every satoshi you own.,user_55,6783,6922,negative,13,Saturday,57,-1
+neg_0898,2024-05-18 17:41:46,Bitcoin mining operations causing grid strain.,user_96,6045,4891,negative,17,Saturday,46,-1
+neg_0095,2024-05-18 18:41:04,Bitcoin transaction malleability still a security risk.,user_81,22577,3865,negative,18,Saturday,55,-1
+neg_0085,2024-05-19 02:10:27,Methane flaring for Bitcoin still releases CO2.,user_33,5478,8379,negative,2,Sunday,47,-1
+neg_0533,2024-05-19 11:41:30,Bitcoin mining operations abandoned leaving toxic waste.,user_49,24861,6910,negative,11,Sunday,56,-1
+neg_0391,2024-05-19 12:57:48,Phishing attacks stealing Bitcoin daily. No protection.,user_35,3088,5288,negative,12,Sunday,55,-1
+neg_0082,2024-05-19 17:01:20,Ledger database leaked. Users exposed to attacks.,user_25,17531,6150,negative,17,Sunday,49,-1
+neg_0639,2024-05-19 18:39:18,Public ledger means permanent financial surveillance.,user_37,24106,6190,negative,18,Sunday,53,-1
+neg_0541,2024-05-19 18:48:51,Your employer can see your Bitcoin transaction history.,user_58,16863,6972,negative,18,Sunday,55,-1
+neg_0035,2024-05-19 19:13:58,Your Bitcoin privacy depends on everyone else. Broken.,user_24,13576,3757,negative,19,Sunday,54,-1
+neg_0721,2024-05-19 21:27:05,Public ledger means permanent financial surveillance.,user_18,9488,579,negative,21,Sunday,53,-1
+neg_0601,2024-05-19 22:15:18,Bitcoin mining competing with essential services.,user_80,20937,7183,negative,22,Sunday,49,-1
+neg_0574,2024-05-20 00:23:22,Consensus bugs could halt the network.,user_94,2949,2516,negative,0,Monday,38,-1
+neg_0830,2024-05-20 05:38:04,Bitcoin mining damaging pristine environmental areas.,user_75,15737,2918,negative,5,Monday,53,-1
+neg_0126,2024-05-20 06:04:49,Bitcoin miners fleeing regulations to pollute elsewhere.,user_80,24795,7478,negative,6,Monday,56,-1
+neg_0562,2024-05-20 21:23:34,Dust attacks tracking Bitcoin user behavior.,user_62,5809,9281,negative,21,Monday,44,-1
+neg_0462,2024-05-20 21:31:42,Wallet providers cooperating with surveillance agencies.,user_82,18866,1239,negative,21,Monday,56,-1
+neg_0271,2024-05-20 23:09:24,Mixing services banned. No privacy on Bitcoin anymore.,user_33,11544,5415,negative,23,Monday,54,-1
+neg_0212,2024-05-21 02:13:15,Proof of Work is waste of computational resources.,user_20,17356,1067,negative,2,Tuesday,50,-1
+neg_0901,2024-05-21 03:12:13,One transaction uses energy to power homes for weeks.,user_46,24154,3475,negative,3,Tuesday,53,-1
+neg_0411,2024-05-21 07:21:06,Bitcoin mining competing with residential power needs.,user_85,3673,2976,negative,7,Tuesday,54,-1
+neg_0140,2024-05-21 08:19:18,Renewable energy claims by miners are greenwashing.,user_33,24564,3923,negative,8,Tuesday,51,-1
+neg_0229,2024-05-21 16:37:12,Bitcoin scripts with hidden vulnerabilities.,user_89,17735,9706,negative,16,Tuesday,44,-1
+neg_0058,2024-05-21 17:12:53,ASIC miners obsolete in 2 years. E-waste mountains.,user_12,3676,9659,negative,17,Tuesday,51,-1
+neg_0023,2024-05-21 18:28:58,Zero-day exploit in popular wallet software.,user_63,2613,4551,negative,18,Tuesday,44,-1
+neg_0405,2024-05-22 00:01:34,Bitcoin mining creating heat islands in areas.,user_28,12536,5299,negative,0,Wednesday,46,-1
+neg_0338,2024-05-22 12:09:05,Bitcoin mining uses more electricity than countries.,user_15,23656,6278,negative,12,Wednesday,52,-1
+neg_0285,2024-05-22 17:08:52,Time-locked transactions exposing future plans.,user_97,8176,5529,negative,17,Wednesday,47,-1
+neg_0903,2024-05-22 19:42:14,Bitcoin mining damaging pristine environmental areas.,user_20,6433,7051,negative,19,Wednesday,53,-1
+neg_0654,2024-05-22 21:59:21,51% attack risk is real and growing.,user_46,21810,6243,negative,21,Wednesday,36,-1
+neg_0710,2024-05-22 23:20:39,Bitcoin has no solution without changing consensus.,user_34,16573,8723,negative,23,Wednesday,51,-1
+neg_0029,2024-05-23 00:13:09,Blockchain transparency means government sees everything you buy.,user_80,13297,688,negative,0,Thursday,65,-1
+neg_0438,2024-05-23 01:34:46,Bitcoin uses 0.5% of global electricity. Unsustainable.,user_43,23491,7417,negative,1,Thursday,55,-1
+neg_0481,2024-05-23 01:36:43,Every Bitcoin transaction is permanently tracked. Privacy is dead.,user_9,10578,4164,negative,1,Thursday,66,-1
+neg_0241,2024-05-23 06:32:15,Bitcoin mining uses more electricity than countries.,user_13,15858,1589,negative,6,Thursday,52,-1
+neg_0735,2024-05-23 08:18:46,Law enforcement has blockchain tracking tools now.,user_16,8026,7150,negative,8,Thursday,50,-1
+neg_0775,2024-05-23 19:04:46,Fake wallet apps stealing Bitcoin daily.,user_56,21657,5872,negative,19,Thursday,40,-1
+neg_0682,2024-05-23 20:22:10,Bitcoin escrow scams increasing. No protection.,user_49,2864,807,negative,20,Thursday,47,-1
+neg_0690,2024-05-23 22:38:00,Bitcoin energy consumption doubled in 12 months.,user_48,8407,9503,negative,22,Thursday,48,-1
+neg_0248,2024-05-23 23:34:57,Consensus bugs could halt the network.,user_94,13295,9412,negative,23,Thursday,38,-1
+neg_0328,2024-05-24 03:57:38,Proof of Work destroying the planet for digital money.,user_4,22525,4682,negative,3,Friday,54,-1
+neg_0783,2024-05-24 05:12:50,Ransomware demanding Bitcoin. Fueling criminals.,user_6,22632,8553,negative,5,Friday,48,-1
+neg_0855,2024-05-24 10:11:48,Carbon credits from miners are fraudulent.,user_99,5076,8654,negative,10,Friday,42,-1
+neg_0431,2024-05-24 13:07:54,Renewable Bitcoin mining is a myth. Fossil fuels.,user_17,9329,5367,negative,13,Friday,49,-1
+neg_0814,2024-05-24 16:57:23,Ransomware demanding Bitcoin. Fueling criminals.,user_39,24508,2515,negative,16,Friday,48,-1
+neg_0090,2024-05-24 21:15:27,Hardware wallet vulnerability discovered. Funds at risk.,user_89,14863,362,negative,21,Friday,56,-1
+neg_0346,2024-05-24 22:21:36,Bitcoin hashrate increase equals more energy waste.,user_60,18574,1770,negative,22,Friday,51,-1
+neg_0356,2024-05-25 01:38:41,Wallet backup phrases stolen in supply chain attack.,user_21,15721,6655,negative,1,Saturday,52,-1
+neg_0341,2024-05-25 02:21:26,Renewable Bitcoin mining is a myth. Fossil fuels.,user_88,21942,9905,negative,2,Saturday,49,-1
+neg_0883,2024-05-25 02:22:56,Chain analysis companies can track every satoshi you own.,user_5,11046,4648,negative,2,Saturday,57,-1
+neg_0768,2024-05-25 06:27:22,Fake hardware wallets sold on Amazon with backdoors.,user_58,11299,4404,negative,6,Saturday,52,-1
+neg_0994,2024-05-25 07:58:04,Bitcoin vanity address collision risk underestimated.,user_26,3351,2145,negative,7,Saturday,53,-1
+neg_0062,2024-05-25 08:10:59,Zero-day exploit in popular wallet software.,user_97,19301,2777,negative,8,Saturday,44,-1
+neg_0213,2024-05-25 22:39:48,Bitcoin scripts with hidden vulnerabilities.,user_88,4412,6780,negative,22,Saturday,44,-1
+neg_0529,2024-05-25 23:06:07,One transaction equals one month household electricity.,user_63,2288,6207,negative,23,Saturday,55,-1
+neg_0954,2024-05-25 23:14:36,Bitcoin mining noise pollution affecting communities.,user_77,10815,3574,negative,23,Saturday,53,-1
+neg_0282,2024-05-26 11:38:24,Proof of Work destroying the planet for digital money.,user_87,8034,9536,negative,11,Sunday,54,-1
+neg_0187,2024-05-26 12:11:31,Bitcoin energy consumption growing exponentially.,user_63,8965,6662,negative,12,Sunday,49,-1
+neg_0306,2024-05-26 15:34:53,Privacy coins getting delisted everywhere. Bitcoin next.,user_93,14058,6704,negative,15,Sunday,56,-1
+neg_0944,2024-05-26 16:09:51,Bitcoin DNS attacks redirecting transactions.,user_71,13453,905,negative,16,Sunday,45,-1
+neg_0039,2024-05-26 20:34:36,Bitcoin lightning network vulnerabilities discovered.,user_58,4135,8978,negative,20,Sunday,53,-1
+neg_0699,2024-05-26 23:51:13,Bitcoin lightning network vulnerabilities discovered.,user_9,16633,5633,negative,23,Sunday,53,-1
+neg_0556,2024-05-27 04:46:30,Bitcoin energy consumption growing exponentially.,user_27,19901,7519,negative,4,Monday,49,-1
+neg_0674,2024-05-27 08:01:38,Public ledger means permanent financial surveillance.,user_48,12554,2881,negative,8,Monday,53,-1
+neg_0613,2024-05-27 08:01:54,Proof of Work is waste of computational resources.,user_28,22695,8983,negative,8,Monday,50,-1
+neg_0496,2024-05-27 16:00:25,Bitcoin using more energy than renewables produce.,user_39,24607,1054,negative,16,Monday,50,-1
+neg_0906,2024-05-27 17:14:00,Energy for Bitcoin could power hospitals instead.,user_6,10740,3164,negative,17,Monday,49,-1
+neg_0156,2024-05-27 21:13:16,Ledger database leaked. Users exposed to attacks.,user_92,13434,9609,negative,21,Monday,49,-1
+neg_0614,2024-05-28 04:33:48,Law enforcement has blockchain tracking tools now.,user_55,4756,2125,negative,4,Tuesday,50,-1
+neg_0265,2024-05-28 08:01:09,IP addresses logged with every transaction. Location tracked.,user_34,4201,5198,negative,8,Tuesday,61,-1
+neg_0753,2024-05-28 10:42:19,Hardware wallet vulnerability discovered. Funds at risk.,user_39,15467,609,negative,10,Tuesday,56,-1
+neg_0321,2024-05-28 11:36:35,Quantum computers will break Bitcoin encryption soon.,user_3,8811,9780,negative,11,Tuesday,53,-1
+neg_0959,2024-05-28 20:00:53,Your Bitcoin privacy depends on everyone else. Broken.,user_34,20501,7279,negative,20,Tuesday,54,-1
+neg_0762,2024-05-29 06:48:38,Consensus bugs could halt the network.,user_83,3534,7456,negative,6,Wednesday,38,-1
+neg_0525,2024-05-29 09:19:27,Bitcoin mining damaging pristine environmental areas.,user_5,1938,771,negative,9,Wednesday,53,-1
+neg_0927,2024-05-29 14:35:54,Your employer can see your Bitcoin transaction history.,user_57,22950,7065,negative,14,Wednesday,55,-1
+neg_0923,2024-05-29 16:50:40,Bitcoin hashrate increase equals more energy waste.,user_28,13755,6291,negative,16,Wednesday,51,-1
+neg_0264,2024-05-29 17:07:12,Ransomware demanding Bitcoin. Fueling criminals.,user_12,20102,6128,negative,17,Wednesday,48,-1
+neg_0293,2024-05-29 18:32:21,Miners bribing officials for cheap dirty energy.,user_67,11184,1034,negative,18,Wednesday,48,-1
+neg_0219,2024-05-30 03:08:03,Bitcoin energy consumption doubled in 12 months.,user_11,18466,6882,negative,3,Thursday,48,-1
+neg_0840,2024-05-30 04:47:06,Bitcoin bridge hacked for $200M. Security is broken.,user_62,17410,4179,negative,4,Thursday,52,-1
+neg_0758,2024-05-30 05:45:31,Bitcoin mining damaging pristine environmental areas.,user_87,15382,3255,negative,5,Thursday,53,-1
+neg_0349,2024-05-30 13:55:10,Every node can see your transaction. Total surveillance.,user_67,20149,2088,negative,13,Thursday,56,-1
+neg_0559,2024-05-30 14:41:47,Fake wallet apps stealing Bitcoin daily.,user_77,8167,6634,negative,14,Thursday,40,-1
+neg_0594,2024-05-30 19:44:17,E-waste from mining rigs piling up in landfills.,user_39,3674,7790,negative,19,Thursday,48,-1
+neg_0712,2024-05-30 19:58:54,Bitcoin privacy worse than bank accounts at this point.,user_19,13733,1281,negative,19,Thursday,55,-1
+neg_0043,2024-05-30 22:55:07,Bitcoin held by exchanges not backed 1:1. Fractional.,user_99,13678,7974,negative,22,Thursday,53,-1
+neg_0910,2024-05-31 01:04:39,Time-locked transactions exposing future plans.,user_63,15826,3669,negative,1,Friday,47,-1
+neg_0453,2024-05-31 06:13:17,Law enforcement has blockchain tracking tools now.,user_4,22486,3571,negative,6,Friday,50,-1
+neg_0719,2024-05-31 06:57:35,Cooling systems for miners wasting massive water.,user_20,16581,7868,negative,6,Friday,49,-1
+neg_0447,2024-05-31 19:07:15,Chain analysis companies can track every satoshi you own.,user_72,1775,6786,negative,19,Friday,57,-1
