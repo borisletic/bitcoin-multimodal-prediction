@@ -1,17 +1,13 @@
 # Bitcoin Multimodal Prediction - Quick Start
 
-Sentiment analysis branch for Bitcoin price prediction using BERT + GRU.
-
 ## Requirements
-
 - Python 3.9 - 3.11
 - NVIDIA GPU (recommended) or CPU
-- 8GB+ RAM
+- 16GB+ RAM
 
-## Setup (5 minutes)
+## Setup
 
 ### 1. Create Virtual Environment
-
 ```bash
 # Windows
 py -3.11 -m venv venv311
@@ -23,7 +19,6 @@ source venv311/bin/activate
 ```
 
 ### 2. Install Dependencies
-
 ```bash
 # With GPU (NVIDIA only)
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
@@ -33,56 +28,39 @@ pip install -r requirements.txt
 pip install -r requirements.txt
 ```
 
-### 3. Download NLTK Data
+### 3. Register Jupyter Kernel
+```bash
+pip install ipykernel
+python -m ipykernel install --user --name=venv311 --display-name "Python (venv311)"
+```
 
+### 4. Download NLTK Data
 ```bash
 python -c "import nltk; nltk.download('punkt'); nltk.download('punkt_tab'); nltk.download('stopwords'); nltk.download('wordnet')"
 ```
 
-## Run Pipeline (~20 min with GPU)
+## Run Pipeline (Jupyter Notebooks)
 
-### Option 1: Automated (Recommended)
+### **Execute notebooks in order:**
 
-```bash
-python scripts\train_pipeline.py
-```
+1. **`data/01_EDA_and_Data_Preparation.ipynb`** 
 
-### Option 2: Step by Step
+2. **`data/02_Preprocessing_and_Features.ipynb`** 
 
-```bash
-# 1. Preprocessing
-python scripts\preprocessing.py --input data\bitcoin_tweets_10k.csv --output_dir data\processed
+3. **`data/03_VADER_Baseline.ipynb`** 
 
-# 2. VADER Baseline
-python baseline\vader_baseline.py --data data\processed\tweets_labeled.csv --output_dir baseline\vader_results --mode both
+4. **`data/04_BERT_Finetuning.ipynb`** 
 
-# 3. BERT Training
-python scripts\sentiment_branch.py --data data\processed\tweets_labeled.csv --output_dir models\bert_sentiment --epochs 3 --batch_size 32
+5. **`data/05_BiLSTM_Alternative.ipynb`** 
 
-# 4. GRU Embeddings
-python models\gru_sentiment_embedding.py --sentiment_features data\processed\sentiment_features_train.csv --bert_model models\bert_sentiment\bert_sentiment_best.pt --window_size 168 --output_dir models\sentiment_embeddings
-```
+6. **`data/06_GRU_Embedding_Final_Evaluation.ipynb`** 
+
+### **Then all of Bogdan's notebooks in /notebooks folder**
 
 ## Results
 
-After running:
-- **VADER**: `baseline/vader_results/` 
-- **BERT**: `models/bert_sentiment/` 
-- **GRU**: `models/sentiment_embeddings/` 
+After running all notebooks:
+- **Preprocessed data**: `data/processed/`
+- **Model checkpoints**: `models/`
+- **Embeddings**: `results/embeddings/sentiment_embeddings_64dim.npy`
 
-## Troubleshooting
-
-**Import errors?** → Select correct Python interpreter in VS Code (Ctrl+Shift+P → "Python: Select Interpreter")
-
-**CUDA not available?** → Run CPU version or use Google Colab (free GPU)
-
-**Unicode errors?** → All fixed in latest version
-
-## Authors
-
-- Boris Letic (Student 1) - Sentiment Analysis
-- Bogdan Ciplic (Student 2) - Price Analysis
-
-## License
-
-MIT License - For educational purposes
